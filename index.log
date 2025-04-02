@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.9.13)  2 APR 2025 15:57
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.9.13)  2 APR 2025 16:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3078,21 +3078,2842 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+File: img/cover-header-2.png Graphic file (type bmp)
+<img/cover-header-2.png>
+LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
+(Font)              scaled to size 30.0pt on input line 260.
+Requested font "[OpenSans-Regular.ttf]/OT:script=latn;language=dflt;+liga;+tnum
+;+lnum;mapping=tex-text;" at 30.0pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/truetype/ascen
+der/opensans/OpenSans-Regular.ttf
+LaTeX Font Info:    Font shape `TU/OpenSans(0)/b/n' will be
+(Font)              scaled to size 30.0pt on input line 263.
+Requested font "[OpenSans-Bold.ttf]/OT:script=latn;language=dflt;+liga;+tnum;+l
+num;mapping=tex-text;" at 30.0pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/truetype/ascen
+der/opensans/OpenSans-Bold.ttf
+LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
+(Font)              scaled to size 20.0pt on input line 274.
+Requested font "[OpenSans-Regular.ttf]/OT:script=latn;language=dflt;+liga;+tnum
+;+lnum;mapping=tex-text;" at 20.0pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/truetype/ascen
+der/opensans/OpenSans-Regular.ttf
+LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
+(Font)              scaled to size 16.0pt on input line 288.
+Requested font "[OpenSans-Regular.ttf]/OT:script=latn;language=dflt;+liga;+tnum
+;+lnum;mapping=tex-text;" at 16.0pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/truetype/ascen
+der/opensans/OpenSans-Regular.ttf
+LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 302.
+Requested font "[OpenSans-Regular.ttf]/OT:script=latn;language=dflt;+liga;+tnum
+;+lnum;mapping=tex-text;" at 8.0pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/truetype/ascen
+der/opensans/OpenSans-Regular.ttf
 
-LaTeX Warning: File `img/cover-header-2.png' not found on input line 251.
+Underfull \hbox (badness 3000) in paragraph at lines 309--309
+[]\TU/OpenSans(0)/m/n/8 National Oceanic and Atmospheric 
+ []
 
-! Unable to load picture or PDF file 'img/cover-header-2.png'.
-<to be read again> 
-                   }
-l.251 ... keepaspectratio]{img/cover-header-2.png}
-                                                  }; 
+
+
+[1
+
+
+
+
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(126.47249pt, 415.55252pt, 72.26999pt)
+* v-part:(T,H,B)=(216.81pt, 505.89pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=415.55252pt
+* \textheight=505.89pt
+* \oddsidemargin=54.2025pt
+* \evensidemargin=54.2025pt
+* \topmargin=107.14pt
+* \headheight=17.0pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.6pt
+* \marginparwidth=87.75642pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\bgimagesize=\skip99
+\vrulewidth=\skip100
+\B=\skip101
+\minipagewidth=\skip102
+LaTeX Font Info:    Calculating math sizes for size <20> on input line 452.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 24.83307pt on input line 452.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 24.833
+07pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 17.38307pt on input line 452.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 17.383
+07pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 12.41653pt on input line 452.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 12.416
+53pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
+52.
+(C:\Users\emily.markowitz\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Requested font "lmmi12" at 20.0pt
+Requested font "lmmi12" at 13.99994pt
+Requested font "lmmi10" at 10.0pt
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 24.83551pt on input line 452.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 24.835
+51pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 17.38478pt on input line 452.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 17.384
+78pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 12.41776pt on input line 452.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 12.417
+76pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 24.83063pt on input line 452.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 24.830
+63pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 17.38136pt on input line 452.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 17.381
+36pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 12.41531pt on input line 452.
+Requested font "[latinmodern-math.otf]/OT:script=math;language=dflt;" at 12.415
+31pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm-math/latinmodern-math.otf
+LaTeX Font Info:    Trying to load font information for U+msa on input line 452
+.
+
+(C:\Users\emily.markowitz\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa
+.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+Requested font "msam10" at 20.0pt
+
+(C:\Users\emily.markowitz\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+Requested font "msam10" at 13.99994pt
+Requested font "msam10" at 10.0pt
+LaTeX Font Info:    Trying to load font information for U+msb on input line 452
+.
+
+(C:\Users\emily.markowitz\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb
+.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Requested font "msbm10" at 20.0pt
+
+(C:\Users\emily.markowitz\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Requested font "msbm10" at 13.99994pt
+Requested font "msbm10" at 10.0pt
+LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
+(Font)              scaled to size 13.99994pt on input line 452.
+Requested font "[OpenSans-Regular.ttf]/OT:script=latn;language=dflt;+liga;+tnum
+;+lnum;mapping=tex-text;" at 13.99994pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/truetype/ascen
+der/opensans/OpenSans-Regular.ttf
+LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 454.
+Requested font "[OpenSans-Italic.ttf]/OT:script=latn;language=dflt;+liga;+tnum;
++lnum;mapping=tex-text;" at 10.95pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/truetype/ascen
+der/opensans/OpenSans-Italic.ttf
+
+Underfull \vbox (badness 10000) detected at line 463
+ []
+
+
+
+File: img/corner-image.png Graphic file (type bmp)
+<img/corner-image.png>
+[2
+
+
+
+]
+Requested font "[lmsans10-regular]:mapping=tex-text;" at 10.95pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm/lmsans10-regular.otf
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Requested font "[lmsans10-bold]:mapping=tex-text;" at 10.95pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm/lmsans10-bold.otf
+Requested font "[lmsans10-bold]:mapping=tex-text;" at 20.74pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm/lmsans10-bold.otf
+Package tocbasic Info: character protrusion at toc deactivated on input line 47
+7.
+No file index.toc.
+\tf@toc=\write4
+\openout4 = `index.toc'.
+
+
+
+[1
+
+
+
+]
+Package tocbasic Info: character protrusion at lof deactivated on input line 47
+9.
+No file index.lof.
+\tf@lof=\write5
+\openout5 = `index.lof'.
+
+
+
+[2
+
+]
+Package tocbasic Info: character protrusion at lot deactivated on input line 48
+0.
+No file index.lot.
+\tf@lot=\write6
+\openout6 = `index.lot'.
+
+
+
+[3
+
+]
+part I.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 482.
+Requested font "[lmsans10-bold]:mapping=tex-text;" at 24.88pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm/lmsans10-bold.otf
+
+
+[1
+
+
+]
+Requested font "[lmsans10-bold]:mapping=tex-text;" at 14.4pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm/lmsans10-bold.otf
+File: index_files/mediabag/750x500-bottom-trawl.jpg Graphic file (type bmp)
+<index_files/mediabag/750x500-bottom-trawl.jpg>
+LaTeX Font Info:    Font shape `TU/OpenSans(0)/b/n' will be
+(Font)              scaled to size 10.95pt on input line 518.
+Requested font "[OpenSans-Bold.ttf]/OT:script=latn;language=dflt;+liga;+tnum;+l
+num;mapping=tex-text;" at 10.95pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/truetype/ascen
+der/opensans/OpenSans-Bold.ttf
+
+
+LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/sl' in size <10.95> not availa
+ble
+(Font)              Font shape `TU/OpenSans(0)/m/it' tried instead on input lin
+e 523.
+LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 523.
+[2]
+Requested font "[lmmono10-regular]:" at 10.95pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm/lmmono10-regular.otf
+
+Overfull \hbox (98.88026pt too wide) in paragraph at lines 589--589
+[]  \TU/lmtt/m/n/10.95 author = {{NOAA Fisheries Alaska Fisheries Science Cente
+r, Goundfish Assessment Program}},[] 
+ []
+
+
+Overfull \hbox (1.15154pt too wide) in paragraph at lines 589--589
+[]  \TU/lmtt/m/n/10.95 title = {AFSC Goundfish Assessment Program Design-Based 
+Production Data},[] 
+ []
+
+
+Overfull \hbox (265.59398pt too wide) in paragraph at lines 589--589
+[]  \TU/lmtt/m/n/10.95 howpublished = {https://www.fisheries.noaa.gov/alaska/sc
+ience-data/groundfish-assessment-program-bottom-trawl-surveys},[] 
+ []
+
+
+Overfull \hbox (110.37776pt too wide) in paragraph at lines 589--589
+[]  \TU/lmtt/m/n/10.95 title = {Fisheries One Stop Shop Public Data: RACE Divis
+ion Bottom Trawl Survey Data Query},[] 
+ []
+
+
+
+[3]
+Overfull \hbox (127.62401pt too wide) in paragraph at lines 589--589
+[]  \TU/lmtt/m/n/10.95 institution = {{NOAA Fisheries Alaska Fisheries Science 
+Center, Goundfish Assessment Program}},[] 
+ []
+
+
+Overfull \hbox (1.15154pt too wide) in paragraph at lines 589--589
+[]  \TU/lmtt/m/n/10.95 title = {AFSC Goundfish Assessment Program Design-Based 
+Production Data},[] 
+ []
+
+
+Overfull \hbox (98.88025pt too wide) in paragraph at lines 589--589
+[]  \TU/lmtt/m/n/10.95 howpublished = {https://www.psmfc.org/program/alaska-fis
+heries-information-network-akfin},[] 
+ []
+
+
+
+[4]
+
+[5]
+chapter 1.
+
+Class scrbook Warning: \float@addtolists detected!
+(scrbook)              Implementation of \float@addtolist became
+(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrbook)              has been replaced by several more flexible
+(scrbook)              features of package `tocbasic`.
+(scrbook)              Since Version 3.12 support for deprecated
+(scrbook)              \float@addtolist interface has been
+(scrbook)              restricted to only some of the KOMA-Script
+(scrbook)              features and been removed from others.
+(scrbook)              Loading of package `scrhack' may help to
+(scrbook)              avoid this warning, if you are using a
+(scrbook)              a package that still implements the
+(scrbook)              deprecated \float@addtolist interface.
+
+LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
+(Font)              scaled to size 11.0pt on input line 680.
+Requested font "[OpenSans-Regular.ttf]/OT:script=latn;language=dflt;+liga;+tnum
+;+lnum;mapping=tex-text;" at 11.0pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/truetype/ascen
+der/opensans/OpenSans-Regular.ttf
+Requested font "Arial" at 10.99997pt
+ -> C:/Windows/Fonts/arial.ttf
+Requested font "Arial/OT" at 11.00003pt
+ -> C:/Windows/Fonts/arial.ttf
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+Requested font "Arial/OT:script=latn;language=dflt;" at 11.00002pt
+ -> C:/Windows/Fonts/arial.ttf
+Requested font "Arial/BI/OT:script=latn;language=dflt;" at 11.00002pt
+ -> C:/Windows/Fonts/arialbi.ttf
+Requested font "Arial/B/OT:script=latn;language=dflt;" at 11.00002pt
+ -> C:/Windows/Fonts/arialbd.ttf
+Requested font "Arial/I/OT:script=latn;language=dflt;" at 11.00002pt
+ -> C:/Windows/Fonts/ariali.ttf
+Requested font "Arial/OT:script=latn;language=dflt;" at 11.00003pt
+ -> C:/Windows/Fonts/arial.ttf
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+Requested font "Arial/B/OT:script=latn;language=dflt;" at 11.00003pt
+ -> C:/Windows/Fonts/arialbd.ttf
+Requested font "Arial/B/OT:script=latn;language=dflt;" at 11.00003pt
+ -> C:/Windows/Fonts/arialbd.ttf
+
+Package fontspec Info: 
+(fontspec)             Arial/B scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial/B scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial/B scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial/B scale = 1.
+
+Requested font "Arial/I/OT:script=latn;language=dflt;" at 11.00003pt
+ -> C:/Windows/Fonts/ariali.ttf
+Requested font "Arial/I/OT:script=latn;language=dflt;" at 11.00003pt
+ -> C:/Windows/Fonts/ariali.ttf
+
+Package fontspec Info: 
+(fontspec)             Arial/I scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial/I scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial/I scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial/I scale = 1.
+
+Requested font "Arial/BI/OT:script=latn;language=dflt;" at 11.00003pt
+ -> C:/Windows/Fonts/arialbi.ttf
+Requested font "Arial/BI/OT:script=latn;language=dflt;" at 11.00003pt
+ -> C:/Windows/Fonts/arialbi.ttf
+
+Package fontspec Info: 
+(fontspec)             Arial/BI scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial/BI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial/BI scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial/BI scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options [Scale=MatchLowercase,Ligatures=TeX,Scale=1].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"Arial/OT:script=latn;language=dflt;mapping=tex-
+text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"Arial/OT:script=latn;language=dflt;+smcp;mappin
+g=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"Arial/B/OT:script=latn;language=dflt;mapping=te
+x-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"Arial/B/OT:script=latn;language=dflt;+smcp;mapp
+ing=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"Arial/I/OT:script=latn;language=dflt;mapping=te
+x-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"Arial/I/OT:script=latn;language=dflt;+smcp;mapp
+ing=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"Arial/BI/OT:script=latn;language=dflt;mapping=t
+ex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"Arial/BI/OT:script=latn;language=dflt;+smcp;map
+ping=tex-text;"
+
+LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
+(Font)              scaled to size 11.0pt on input line 680.
+Requested font "Arial/OT:script=latn;language=dflt;mapping=tex-text;" at 11.0pt
+ -> C:/Windows/Fonts/arial.ttf
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Overfull \hbox (327.62787pt too wide) in alignment at lines 672--684
+ [] [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Overfull \hbox (327.62787pt too wide) in alignment at lines 684--692
+ [] [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Overfull \hbox (10.61049pt too wide) in paragraph at lines 712--712
+[]|[]\TU/Arial(0)/m/n/11 Development[]|  
+ []
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Overfull \hbox (4.49281pt too wide) in paragraph at lines 720--720
+[]|[]\TU/Arial(0)/m/n/11 Deployment 
+ []
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Overfull \hbox (4.49281pt too wide) in paragraph at lines 728--728
+[]|[]\TU/Arial(0)/m/n/11 Deployment 
+ []
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Overfull \hbox (327.62787pt too wide) in alignment at lines 692--752
+ [] [] [] [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[6
+
+]
+File: content/intro-workflow_files/figure-latex/mermaid-figure-1.png Graphic fi
+le (type bmp)
+<content/intro-workflow_files/figure-latex/mermaid-figure-1.png>
+
+Overfull \hbox (734.19678pt too wide) in paragraph at lines 774--775
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 522.27687pt on input line 781.
+
+File: content/intro-workflow_files/figure-latex/mermaid-figure-3.png Graphic fi
+le (type bmp)
+<content/intro-workflow_files/figure-latex/mermaid-figure-3.png>
+
+Overfull \hbox (831.0944pt too wide) in paragraph at lines 817--818
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 99.28148pt on input line 824.
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 831--836
+[]\TU/OpenSans(0)/m/n/10.95 Versions of the tables in GAP_-PRODUCTS are locally
+ imported within the
+ []
+
+
+
+[7]
+
+[8]
+
+[9]
+File: content/intro-workflow_files/figure-latex/mermaid-figure-2.png Graphic fi
+le (type bmp)
+<content/intro-workflow_files/figure-latex/mermaid-figure-2.png>
+
+Overfull \hbox (41.85402pt too wide) in paragraph at lines 853--854
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 559.09616pt on input line 860.
+
+
+
+[10]
+
+[11]
+
+[12]
+chapter 2.
+
+
+[13
+
+]
+chapter 3.
+Requested font "[lmsans10-bold]:mapping=tex-text;" at 12.0pt
+ -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
+c/lm/lmsans10-bold.otf
+
+
+[14
+
+]
+chapter 4.
+
+
+[15
+
+]
+
+[16]
+
+[17]
+chapter 5.
+
+
+[18
+
+]
+chapter 6.
+
+
+[19
+
+]
+part II.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 1040.
+
+
+[20
+
+]
+part III.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 1042.
+
+
+[21
+
+]
+
+[22]
+chapter 7.
+
+
+[23
+
+]
+chapter 8.
+
+
+[24
+
+]
+part IV.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 1052.
+
+
+[25
+
+]
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+LaTeX Font Info:    Font shape `TU/Arial(0)/b/n' will be
+(Font)              scaled to size 11.0pt on input line 1077.
+Requested font "Arial/B/OT:script=latn;language=dflt;mapping=tex-text;" at 11.0
+pt
+ -> C:/Windows/Fonts/arialbd.ttf
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Overfull \hbox (276.56036pt too wide) in alignment at lines 1069--1081
+ [] [] [] [] [] 
+ []
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Overfull \hbox (276.56036pt too wide) in alignment at lines 1081--1089
+ [] [] [] [] [] 
+ []
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+LaTeX Font Info:    Font shape `TU/Arial(0)/m/it' will be
+(Font)              scaled to size 11.0pt on input line 1093.
+Requested font "Arial/I/OT:script=latn;language=dflt;mapping=tex-text;" at 11.0
+pt
+ -> C:/Windows/Fonts/ariali.ttf
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1165
+.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1189
+.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1197
+.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1205
+.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1213
+.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1221
+.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1269
+.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1277
+.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Overfull \hbox (276.56036pt too wide) in alignment at lines 1089--1309
+ [] [] [] [] [] 
+ []
+
+[26] [27]
+
+[28]
+chapter 9.
+
+
+[29
+
+]
+part V.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 1350.
+
+
+[30
+
+]
+
+[31]
+chapter 10.
+
+
+[32
+
+]
+chapter 11.
+
+
+[33
+
+]
+
+[34]
+chapter 12.
+
+
+[35
+
+]
+chapter 13.
+
+
+[36
+
+]
+chapter 14.
+
+
+[37
+
+]
+chapter 15.
+
+
+[38
+
+]
+chapter 16.
+
+
+[39
+
+]
+chapter 17.
+
+
+[40
+
+]
+chapter 18.
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1548 \end{CSLReferences}
+                           
 Here is how much of TeX's memory you used:
- 36194 strings out of 409028
- 712250 string characters out of 5754690
- 1921612 words of memory out of 5000000
- 58379 multiletter control sequences out of 15000+600000
- 558947 words of font info for 61 fonts, out of 8000000 for 9000
+ 36682 strings out of 409028
+ 725310 string characters out of 5754690
+ 1962612 words of memory out of 5000000
+ 58788 multiletter control sequences out of 15000+600000
+ 562063 words of font info for 108 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 108i,7n,140p,10902b,979s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,10n,140p,10902b,979s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-No pages of output.
+Output written on index.pdf (45 pages).
