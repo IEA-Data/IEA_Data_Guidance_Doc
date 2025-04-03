@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.9.13)  2 APR 2025 17:15
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.9.13)  3 APR 2025 15:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3092,6 +3092,16 @@ Requested font "[OpenSans-Bold.ttf]/OT:script=latn;language=dflt;+liga;+tnum;+l
 num;mapping=tex-text;" at 30.0pt
  -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/truetype/ascen
 der/opensans/OpenSans-Bold.ttf
+
+Underfull \hbox (badness 2846) in paragraph at lines 262--263
+\TU/OpenSans(0)/b/n/30 Assessment 
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 262--263
+\TU/OpenSans(0)/b/n/30 Data Guidance 
+ []
+
 LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
 (Font)              scaled to size 20.0pt on input line 274.
 Requested font "[OpenSans-Regular.ttf]/OT:script=latn;language=dflt;+liga;+tnum
