@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.9.13)  2 APR 2025 16:13
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.9.13)  2 APR 2025 16:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3361,54 +3361,16 @@ Requested font "[lmmono10-regular]:" at 10.95pt
  -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/opentype/publi
 c/lm/lmmono10-regular.otf
 
-Overfull \hbox (98.88026pt too wide) in paragraph at lines 589--589
-[]  \TU/lmtt/m/n/10.95 author = {{NOAA Fisheries Alaska Fisheries Science Cente
-r, Goundfish Assessment Program}},[] 
- []
-
-
-Overfull \hbox (1.15154pt too wide) in paragraph at lines 589--589
-[]  \TU/lmtt/m/n/10.95 title = {AFSC Goundfish Assessment Program Design-Based 
-Production Data},[] 
- []
-
-
-Overfull \hbox (265.59398pt too wide) in paragraph at lines 589--589
-[]  \TU/lmtt/m/n/10.95 howpublished = {https://www.fisheries.noaa.gov/alaska/sc
-ience-data/groundfish-assessment-program-bottom-trawl-surveys},[] 
- []
-
-
-Overfull \hbox (110.37776pt too wide) in paragraph at lines 589--589
-[]  \TU/lmtt/m/n/10.95 title = {Fisheries One Stop Shop Public Data: RACE Divis
-ion Bottom Trawl Survey Data Query},[] 
+Overfull \hbox (116.12648pt too wide) in paragraph at lines 569--569
+[]  \TU/lmtt/m/n/10.95 howpublished = {https://www.integratedecosystemassessmen
+t.noaa.gov/ecosystem-status-reports},[] 
  []
 
 
 
 [3]
-Overfull \hbox (127.62401pt too wide) in paragraph at lines 589--589
-[]  \TU/lmtt/m/n/10.95 institution = {{NOAA Fisheries Alaska Fisheries Science 
-Center, Goundfish Assessment Program}},[] 
- []
-
-
-Overfull \hbox (1.15154pt too wide) in paragraph at lines 589--589
-[]  \TU/lmtt/m/n/10.95 title = {AFSC Goundfish Assessment Program Design-Based 
-Production Data},[] 
- []
-
-
-Overfull \hbox (98.88025pt too wide) in paragraph at lines 589--589
-[]  \TU/lmtt/m/n/10.95 howpublished = {https://www.psmfc.org/program/alaska-fis
-heries-information-network-akfin},[] 
- []
-
-
 
 [4]
-
-[5]
 chapter 1.
 
 Class scrbook Warning: \float@addtolists detected!
@@ -3426,7 +3388,7 @@ Class scrbook Warning: \float@addtolists detected!
 (scrbook)              deprecated \float@addtolist interface.
 
 LaTeX Font Info:    Font shape `TU/OpenSans(0)/m/n' will be
-(Font)              scaled to size 11.0pt on input line 680.
+(Font)              scaled to size 11.0pt on input line 660.
 Requested font "[OpenSans-Regular.ttf]/OT:script=latn;language=dflt;+liga;+tnum
 ;+lnum;mapping=tex-text;" at 11.0pt
  -> C:/Users/emily.markowitz/AppData/Local/Programs/MiKTeX/fonts/truetype/ascen
@@ -3563,7 +3525,7 @@ ex-text;"
 ping=tex-text;"
 
 LaTeX Font Info:    Font shape `TU/Arial(0)/m/n' will be
-(Font)              scaled to size 11.0pt on input line 680.
+(Font)              scaled to size 11.0pt on input line 660.
 Requested font "Arial/OT:script=latn;language=dflt;mapping=tex-text;" at 11.0pt
  -> C:/Windows/Fonts/arial.ttf
 
@@ -3663,7 +3625,7 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 
-Overfull \hbox (327.62787pt too wide) in alignment at lines 672--684
+Overfull \hbox (327.62787pt too wide) in alignment at lines 652--664
  [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
@@ -3772,7 +3734,7 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 
-Overfull \hbox (327.62787pt too wide) in alignment at lines 684--692
+Overfull \hbox (327.62787pt too wide) in alignment at lines 664--672
  [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
@@ -3993,7 +3955,7 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 
-Overfull \hbox (10.61049pt too wide) in paragraph at lines 712--712
+Overfull \hbox (10.61049pt too wide) in paragraph at lines 692--692
 []|[]\TU/Arial(0)/m/n/11 Development[]|  
  []
 
@@ -4102,7 +4064,7 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 
-Overfull \hbox (4.49281pt too wide) in paragraph at lines 720--720
+Overfull \hbox (4.49281pt too wide) in paragraph at lines 700--700
 []|[]\TU/Arial(0)/m/n/11 Deployment 
  []
 
@@ -4211,7 +4173,7 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 
-Overfull \hbox (4.49281pt too wide) in paragraph at lines 728--728
+Overfull \hbox (4.49281pt too wide) in paragraph at lines 708--708
 []|[]\TU/Arial(0)/m/n/11 Deployment 
  []
 
@@ -4520,70 +4482,70 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 
-Overfull \hbox (327.62787pt too wide) in alignment at lines 692--752
+Overfull \hbox (327.62787pt too wide) in alignment at lines 672--732
  [] [] [] [] [] [] [] [] [] [] [] [] [] 
  []
 
-[6
+[5
 
 ]
 File: content/intro-workflow_files/figure-latex/mermaid-figure-1.png Graphic fi
 le (type bmp)
 <content/intro-workflow_files/figure-latex/mermaid-figure-1.png>
 
-Overfull \hbox (734.19678pt too wide) in paragraph at lines 774--775
+Overfull \hbox (734.19678pt too wide) in paragraph at lines 754--755
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 522.27687pt on input line 781.
+LaTeX Warning: Float too large for page by 522.27687pt on input line 761.
 
 File: content/intro-workflow_files/figure-latex/mermaid-figure-3.png Graphic fi
 le (type bmp)
 <content/intro-workflow_files/figure-latex/mermaid-figure-3.png>
 
-Overfull \hbox (831.0944pt too wide) in paragraph at lines 817--818
+Overfull \hbox (831.0944pt too wide) in paragraph at lines 797--798
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 99.28148pt on input line 824.
+LaTeX Warning: Float too large for page by 99.28148pt on input line 804.
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 831--836
+Underfull \hbox (badness 1655) in paragraph at lines 811--816
 []\TU/OpenSans(0)/m/n/10.95 Versions of the tables in GAP_-PRODUCTS are locally
  imported within the
  []
 
 
 
+[6]
+
 [7]
 
 [8]
-
-[9]
 File: content/intro-workflow_files/figure-latex/mermaid-figure-2.png Graphic fi
 le (type bmp)
 <content/intro-workflow_files/figure-latex/mermaid-figure-2.png>
 
-Overfull \hbox (41.85402pt too wide) in paragraph at lines 853--854
+Overfull \hbox (41.85402pt too wide) in paragraph at lines 833--834
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 559.09616pt on input line 860.
+LaTeX Warning: Float too large for page by 559.09616pt on input line 840.
 
 
+
+[9]
 
 [10]
 
 [11]
-
-[12]
 chapter 2.
 
 
-[13
+[12
 
 ]
 chapter 3.
@@ -4592,70 +4554,70 @@ Requested font "[lmsans10-bold]:mapping=tex-text;" at 12.0pt
 c/lm/lmsans10-bold.otf
 
 
-[14
+[13
 
 ]
 chapter 4.
 
 
-[15
+[14
 
 ]
 
-[16]
+[15]
 
-[17]
+[16]
 chapter 5.
 
 
-[18
+[17
 
 ]
 chapter 6.
 
 
-[19
+[18
 
 ]
 part II.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 1040.
+(scrkbase)              on input line 1020.
 
 
-[20
+[19
 
 ]
 part III.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 1042.
+(scrkbase)              on input line 1022.
 
 
-[21
+[20
 
 ]
 
-[22]
+[21]
 chapter 7.
 
 
-[23
+[22
 
 ]
 chapter 8.
 
 
-[24
+[23
 
 ]
 part IV.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 1052.
+(scrkbase)              on input line 1032.
 
 
-[25
+[24
 
 ]
 
@@ -4667,7 +4629,7 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 LaTeX Font Info:    Font shape `TU/Arial(0)/b/n' will be
-(Font)              scaled to size 11.0pt on input line 1077.
+(Font)              scaled to size 11.0pt on input line 1057.
 Requested font "Arial/B/OT:script=latn;language=dflt;mapping=tex-text;" at 11.0
 pt
  -> C:/Windows/Fonts/arialbd.ttf
@@ -4752,7 +4714,7 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 
-Overfull \hbox (276.56036pt too wide) in alignment at lines 1069--1081
+Overfull \hbox (276.56036pt too wide) in alignment at lines 1049--1061
  [] [] [] [] [] 
  []
 
@@ -4845,7 +4807,7 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 
-Overfull \hbox (276.56036pt too wide) in alignment at lines 1081--1089
+Overfull \hbox (276.56036pt too wide) in alignment at lines 1061--1069
  [] [] [] [] [] 
  []
 
@@ -4858,7 +4820,7 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 LaTeX Font Info:    Font shape `TU/Arial(0)/m/it' will be
-(Font)              scaled to size 11.0pt on input line 1093.
+(Font)              scaled to size 11.0pt on input line 1073.
 Requested font "Arial/I/OT:script=latn;language=dflt;mapping=tex-text;" at 11.0
 pt
  -> C:/Windows/Fonts/ariali.ttf
@@ -5119,7 +5081,7 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 1165
+Package hyperref Warning: Suppressing link with empty target on input line 1145
 .
 
 
@@ -5307,7 +5269,7 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 1189
+Package hyperref Warning: Suppressing link with empty target on input line 1169
 .
 
 
@@ -5359,7 +5321,7 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 1197
+Package hyperref Warning: Suppressing link with empty target on input line 1177
 .
 
 
@@ -5395,87 +5357,7 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 1205
-.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 1213
-.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 1221
+Package hyperref Warning: Suppressing link with empty target on input line 1185
 .
 
 
@@ -5519,127 +5401,7 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 1269
+Package hyperref Warning: Suppressing link with empty target on input line 1193
 .
 
 
@@ -5675,23 +5437,7 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.032012305223032.
-
-
-Package fontspec Info: 
-(fontspec)             Arial scale = 1.
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 1277
+Package hyperref Warning: Suppressing link with empty target on input line 1201
 .
 
 
@@ -5823,78 +5569,294 @@ Package fontspec Info:
 (fontspec)             Arial scale = 1.
 
 
-Overfull \hbox (276.56036pt too wide) in alignment at lines 1089--1309
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1249
+.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 1257
+.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.032012305223032.
+
+
+Package fontspec Info: 
+(fontspec)             Arial scale = 1.
+
+
+Overfull \hbox (276.56036pt too wide) in alignment at lines 1069--1289
  [] [] [] [] [] 
  []
 
-[26] [27]
+[25] [26]
 
-[28]
+[27]
 chapter 9.
 
 
-[29
+[28
 
 ]
 part V.
 Package scrkbase Info: You've told me to use the font selection of the element
 (scrkbase)             `partprefix' that is an alias of element `partnumber'
-(scrkbase)              on input line 1350.
+(scrkbase)              on input line 1330.
 
 
-[30
+[29
 
 ]
 
-[31]
+[30]
 chapter 10.
 
 
-[32
+[31
 
 ]
 chapter 11.
 
 
-[33
+[32
 
 ]
 
-[34]
+[33]
 chapter 12.
 
 
-[35
+[34
 
 ]
 chapter 13.
 
 
-[36
+[35
 
 ]
 chapter 14.
 
 
-[37
+[36
 
 ]
 chapter 15.
 
 
-[38
+[37
 
 ]
 chapter 16.
 
 
-[39
+[38
 
 ]
 chapter 17.
 
 
-[40
+[39
 
 ]
 chapter 18.
@@ -5905,7 +5867,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1548 \end{CSLReferences}
+l.1528 \end{CSLReferences}
                            
 Here is how much of TeX's memory you used:
  36682 strings out of 409028
@@ -5916,4 +5878,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  108i,10n,140p,10902b,979s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on index.pdf (45 pages).
+Output written on index.pdf (44 pages).
