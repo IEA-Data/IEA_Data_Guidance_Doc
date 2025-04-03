@@ -5,7 +5,7 @@ project:
 
 book: 
   page-navigation: true
-  title: "GAP Production Data Documentation" 
+  title: "Integrated Ecosystem Assessment Data Guidance Documentation" 
   site-url: "https://www.integratedecosystemassessment.noaa.gov/" 
   repo-url: "https://github.com/IEA-Data/IEA_Data_Guidance_Doc"
   repo-actions: [edit, source, issue]
