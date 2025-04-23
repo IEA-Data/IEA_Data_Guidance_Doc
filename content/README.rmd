@@ -32,7 +32,7 @@ Use this repo to engage the broader IEA community to share recommended approache
 **Chia-Wei Hsu** (Chia-Wei.Hsu AT noaa.gov)
 **Kim Hyde** (Kim.Hyde AT noaa.gov)
 **Scott Cross** (Scott.Cross AT noaa.gov)
-**Brittany Troast** (Brittany.Troast AT noaa.gov)
+**Brittany Troast** (Brittany.Troast AT noaa.gov) Gulf IEA
 **Brendan Turley** (Brendan.Turley AT noaa.gov)
 **Courtney Bouchard** (Courtney.Bouchard AT noaa.gov)
 **Cathy Smith** (Cathy.Smith AT noaa.gov)
