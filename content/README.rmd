@@ -25,7 +25,7 @@ Use this repo to engage the broader IEA community to share recommended approache
 
 ## This code is primarally maintained by:
 
-**Emily Markowitz** (Emily.Markowitz AT noaa.gov; [\@EmilyMarkowitz-NOAA](https://github.com/EmilyMarkowitz-NOAA)); NMFS Alaska Fisheries Science Center 
+**Emily Markowitz** (Emily.Markowitz AT noaa.gov; [\@EmilyMarkowitz-NOAA](https://github.com/EmilyMarkowitz-NOAA)); NMFS Alaska Fisheries Science Center :) 
 **Seann Regan** (Seann.Regan AT noaa.gov)
 **Lynn Dewitt** (Lynn.Dewitt AT noaa.gov)
 **Carissa Gervasi** (Carissa.Gervasi AT noaa.gov)
