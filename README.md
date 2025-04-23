@@ -17,7 +17,7 @@ partner’s typical data products.
 Alaska Fisheries Science Center **Seann Regan** (Seann.Regan AT
 noaa.gov) **Lynn Dewitt** (Lynn.Dewitt AT noaa.gov) **Carissa Gervasi**
 (Carissa.Gervasi AT noaa.gov) **Chia-Wei Hsu** (Chia-Wei.Hsu AT
-noaa.gov) **Kim Hyde** (Kim.Hyde AT noaa.gov) **Scott Cross**
+noaa.gov) **Kimberly Hyde** (Kimberly.Hyde AT noaa.gov) **Scott Cross**
 (Scott.Cross AT noaa.gov) **Brittany Troast** (Brittany.Troast AT
 noaa.gov) **Brendan Turley** (Brendan.Turley AT noaa.gov) **Courtney
 Bouchard** (Courtney.Bouchard AT noaa.gov) **Cathy Smith** (Cathy.Smith
