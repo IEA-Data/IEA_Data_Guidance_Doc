@@ -19,7 +19,9 @@ noaa.gov) **Lynn Dewitt** (Lynn.Dewitt AT noaa.gov) **Carissa Gervasi**
 (Carissa.Gervasi AT noaa.gov) **Chia-Wei Hsu** (Chia-Wei.Hsu AT
 noaa.gov) **Kimberly Hyde** (Kimberly.Hyde AT noaa.gov) **Scott Cross**
 (Scott.Cross AT noaa.gov) **Brittany Troast** (Brittany.Troast AT
-noaa.gov) **Brendan Turley** (Brendan.Turley AT noaa.gov) **Courtney
+noaa.gov) **Brendan Turley** (Brendan.Turley AT noaa.gov; 
+[@BrendanTurley-NOAA](https://github.com/BrendanTurley-NOAA)); NMFS 
+Southeast Fisheries Science Center Affiliate; **Courtney 
 Bouchard** (Courtney.Bouchard AT noaa.gov) **Cathy Smith** (Cathy.Smith
 AT noaa.gov) **Corinne Burns** (Corinne.Burns AT noaa.gov) **Jennifer
 Webster** (Jennifer.Webster AT noaa.gov) **Willem Klajbor**
