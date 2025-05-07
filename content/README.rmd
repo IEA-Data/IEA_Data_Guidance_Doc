@@ -27,10 +27,10 @@ Use this repo to engage the broader IEA community to share recommended approache
 
 **Emily Markowitz** (Emily.Markowitz AT noaa.gov; [\@EmilyMarkowitz-NOAA](https://github.com/EmilyMarkowitz-NOAA)); NMFS Alaska Fisheries Science Center 
 **Seann Regan** (Seann.Regan AT noaa.gov)
-**Lynn Dewitt** (Lynn.Dewitt AT noaa.gov)
+**Lynn Dewitt** (Lynn.Dewitt AT noaa.gov);[\@lmdewitt](https://github.com/lmdewitt)); NMFS Alaska Fisheries Science Center
 **Carissa Gervasi** (Carissa.Gervasi AT noaa.gov)
 **Chia-Wei Hsu** (Chia-Wei.Hsu AT noaa.gov)
-**Kim Hyde** (Kim.Hyde AT noaa.gov)
+**Kimberly Hyde** (Kimberly.Hyde AT noaa.gov); [\@khydeA](https://github.com/khyde)); NMFS Southwest Fisheries Science Center 
 **Scott Cross** (Scott.Cross AT noaa.gov)
 **Brittany Troast** (Brittany.Troast AT noaa.gov)
 **Brendan Turley** (Brendan.Turley AT noaa.gov)
