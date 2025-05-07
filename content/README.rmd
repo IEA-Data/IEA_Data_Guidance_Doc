@@ -40,7 +40,7 @@ Use this repo to engage the broader IEA community to share recommended approache
 **Jennifer Webster** (Jennifer.Webster AT noaa.gov)
 **Willem Klajbor** (Willem.Klajbor AT noaa.gov)
 **Amy Freitag** (Amy.Freitag AT noaa.gov)
-**Greg Williams** (Greg.Williams AT noaa.gov)
+**Greg Williams** (Greg.Williams AT noaa.gov) [\@gregwilliamsnoaa](https://github.com/gregwilliamsnoaa); NMFS Northwest Fisheries Science Center
 
 > The code in this repository is regularly being updated and improved. Please refer to [releases](`r paste0(link_repo, "/releases")`) for finalized products and project milestones.
 
