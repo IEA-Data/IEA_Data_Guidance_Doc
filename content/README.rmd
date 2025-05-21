@@ -36,7 +36,7 @@ Use this repo to engage the broader IEA community to share recommended approache
 **Brendan Turley** (Brendan.Turley AT noaa.gov)
 **Courtney Bouchard** (Courtney.Bouchard AT noaa.gov)
 **Cathy Smith** (Cathy.Smith AT noaa.gov)
-**Corinne Burns** (Corinne.Burns AT noaa.gov)
+**Corinne Burns** (Corinne.Burns AT noaa.gov; [\@CorinneBurns-NOAA] (https://github.com/CorinneBurns-NOAA)); NMFS Office of Science and Technology
 **Jennifer Webster** (Jennifer.Webster AT noaa.gov)
 **Willem Klajbor** (Willem.Klajbor AT noaa.gov)
 **Amy Freitag** (Amy.Freitag AT noaa.gov)
