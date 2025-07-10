@@ -1,6 +1,9 @@
----
-title: "index"
-format: html
----
+# About this document {.unnumbered}
 
-THIS IS OUR INDEX
+Here's where we talk about what this document will be used for and how we envision that it will be used. The text will flow around the cover image defined in the yml, but other figures can be included as well.
+
+## IEA regions
+
+ or whatever else we want to include
+
+![IEA Conceptual Model](images/25March2025 _ IEA Program Structure Draft _Regions.png)

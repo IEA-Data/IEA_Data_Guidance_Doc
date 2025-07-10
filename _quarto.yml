@@ -6,6 +6,17 @@ book:
   title: "IEA Guidance Doc"
   author: "IEA Data WG"
   date: last-modified
+  cover-image: "images/define system and goals loop.png"
+  cover-image-alt: |
+    This cover image could be anything
+  favicon: "images/favicon.ico"
+  repo-url: https://github.com/IEA-Data/IEA_Data_Guidance_Doc
+  navbar:
+    background: "#276189"
+    search: true
+    logo: "images/logo-5.png"
+    logo-alt: "Integrated Ecosystem Assessment Website"
+    logo-href: "https://www.integratedecosystemassessment.noaa.gov"
   chapters:
     - index.qmd
     - part: "Working Together"
