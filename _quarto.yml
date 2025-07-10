@@ -26,6 +26,12 @@ book:
         - How_to_Contribute.qmd
         - Useful_Resources.qmd
     - part: "ESRs & SoEs"
+      chapters: 
+        - Timelines.qmd
+        - Data_Collection.qmd
+        - Indicator_Catalogs.qmd
+        - Document_Creation.qmd
+        - Final_Products_Reports.qmd
     - part: "Other Products"
     - part: "Data Management & Best Practices"
     
