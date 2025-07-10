@@ -8,4 +8,16 @@ book:
   date: last-modified
   chapters:
     - index.qmd
-    - How_To_Use_GitHub.qmd
+    - part: "Working Together"
+      chapters:
+        - How_To_Use_GitHub.qmd
+        - Code_of_Conduct.qmd
+        - How_to_Contribute.qmd
+        - Useful_Resources.qmd
+    - part: "ESRs & SoEs"
+    - part: "Other Products"
+    - part: "Data Management & Best Practices"
+    
+format:
+  html:
+    theme: flatly
