@@ -1,5 +1,5 @@
 ---
-title: "How_To_Use_GitHub"
+title: "How to Use GitHub"
 format: html
 ---
 
