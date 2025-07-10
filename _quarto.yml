@@ -1,0 +1,11 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "IEA Guidance Doc"
+  author: "IEA Data WG"
+  date: last-modified
+  chapters:
+    - index.qmd
+    - How_To_Use_GitHub.qmd
