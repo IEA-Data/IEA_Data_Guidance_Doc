@@ -4,53 +4,63 @@
     "href": "index.html",
     "title": "IEA Guidance Doc",
     "section": "",
-    "text": "THIS IS OUR INDEX",
+    "text": "About this document\nHere’s where we talk about what this document will be used for and how we envision that it will be used. The text will flow around the cover image defined in the yml, but other figures can be included as well.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>index</span>"
+      "About this document"
+    ]
+  },
+  {
+    "objectID": "index.html#iea-regions",
+    "href": "index.html#iea-regions",
+    "title": "IEA Guidance Doc",
+    "section": "IEA regions",
+    "text": "IEA regions\nor whatever else we want to include\n\n\n\nIEA Conceptual Model",
+    "crumbs": [
+      "About this document"
     ]
   },
   {
     "objectID": "How_To_Use_GitHub.html",
     "href": "How_To_Use_GitHub.html",
-    "title": "2  How to Use GitHub",
+    "title": "1  How to Use GitHub",
     "section": "",
     "text": "THIS IS A TEST",
     "crumbs": [
       "Working Together",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>How to Use GitHub</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>How to Use GitHub</span>"
     ]
   },
   {
     "objectID": "Code_of_Conduct.html",
     "href": "Code_of_Conduct.html",
-    "title": "3  Code of Conduct",
+    "title": "2  Code of Conduct",
     "section": "",
     "text": "HOLD TEXT",
     "crumbs": [
       "Working Together",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Code of Conduct</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Code of Conduct</span>"
     ]
   },
   {
     "objectID": "How_to_Contribute.html",
     "href": "How_to_Contribute.html",
-    "title": "4  How to Contribute",
+    "title": "3  How to Contribute",
     "section": "",
     "text": "HOLD TEXT",
     "crumbs": [
       "Working Together",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>How to Contribute</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How to Contribute</span>"
     ]
   },
   {
     "objectID": "Useful_Resources.html",
     "href": "Useful_Resources.html",
-    "title": "5  Useful Resources",
+    "title": "4  Useful Resources",
     "section": "",
     "text": "HOLD TEXT",
     "crumbs": [
       "Working Together",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Useful Resources</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Useful Resources</span>"
     ]
   }
 ]
