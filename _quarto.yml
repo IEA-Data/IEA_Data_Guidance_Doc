@@ -20,4 +20,6 @@ book:
     
 format:
   html:
-    theme: flatly
+    theme: 
+      light: flatly
+      dark: darkly
