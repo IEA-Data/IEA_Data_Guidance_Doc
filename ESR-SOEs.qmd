@@ -4,9 +4,10 @@ format: html
 ---
 
 ## Overview
+Ecosystem Status Reports (ESRs) are part of the Integrate Ecosystem Approach to gather key indicators of an ecosystem and evaluate hos that system is connected and changing. Regional ESRs (and the State of the Ecosystem Report in the Northeast) ...
 
 ### Ecosystem Status Reports
-[General description]
+Ecosystem Status Reports summarize the status and trends of key ecosystem components within a specific region.
 
 ### State of the Ecosystem Reports
 The annual [State of the Ecosystem] (https://www.fisheries.noaa.gov/new-england-mid-atlantic/ecosystems/state-ecosystem-reports-northeast-us-shelf) reports synthesize ecosystem information for the [New England] (https://www.nefmc.org/) and [Mid-Atlantic] (https://www.mafmc.org/) Fishery Management Councils. The reports provide a synthesis of the current status of the Northeast U.S. Shelf marine ecosystems (Gulf of Maine, Georges Bankd, and the Mid-Atlantic Bight). These collaboratively produced reports inform the fishery management councils about the [ecological] (https://www.fisheries.noaa.gov/new-england-mid-atlantic/ecosystems/northeast-ecosystem-dynamics-and-assessment-our-research), [oceanographic] (https://www.fisheries.noaa.gov/new-england-mid-atlantic/ecosystems/monitoring-ecosystem-northeast), and [socioeconomic] (https://www.fisheries.noaa.gov/new-england-mid-atlantic/socioeconomics/socioeconomic-cultural-and-policy-research-northeast) aspects of the ecosystem -- from fishing engagement to [climate] (https://www.fisheries.noaa.gov/new-england-mid-atlantic/climate/climate-change-northeast-us-shelf-ecosystem) conditions. 
