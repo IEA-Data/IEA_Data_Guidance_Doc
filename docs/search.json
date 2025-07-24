@@ -337,5 +337,49 @@
       "ESRs & SoEs",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Final Products - ESR Report</span>"
     ]
+  },
+  {
+    "objectID": "metadata_bestpractices.html",
+    "href": "metadata_bestpractices.html",
+    "title": "10  Metadata Best Practices",
+    "section": "",
+    "text": "10.1 FAIR Data Compliance",
+    "crumbs": [
+      "Data Management & Best Practices",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Metadata Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "metadata_bestpractices.html#open-data-policies-within-noaa",
+    "href": "metadata_bestpractices.html#open-data-policies-within-noaa",
+    "title": "10  Metadata Best Practices",
+    "section": "10.2 Open Data Policies within NOAA",
+    "text": "10.2 Open Data Policies within NOAA",
+    "crumbs": [
+      "Data Management & Best Practices",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Metadata Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "metadata_bestpractices.html#archiving-options",
+    "href": "metadata_bestpractices.html#archiving-options",
+    "title": "10  Metadata Best Practices",
+    "section": "10.3 Archiving options",
+    "text": "10.3 Archiving options",
+    "crumbs": [
+      "Data Management & Best Practices",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Metadata Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "Metadata_creation_tools.html",
+    "href": "Metadata_creation_tools.html",
+    "title": "11  Metadata Creation Tools",
+    "section": "",
+    "text": "HOLD TEXT",
+    "crumbs": [
+      "Data Management & Best Practices",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Metadata Creation Tools</span>"
+    ]
   }
 ]
