@@ -4,3 +4,13 @@ format: html
 ---
 
 to be added under Other products --> final products
+
+This page references R packages that are used by the various regions to house/analyze/plot data used in IEA products. 
+
+| Package name | Brief description    | Region(s) where used | Link                       |
+|--------------|----------------------|----------------------|----------------------------|
+| IEAnalyzeR | *Placeholder text...* | *Placeholder text...* | *[Placeholder Link](https://)* |
+| ecodata | *Placeholder text...* | *Placeholder text...* | *[Placeholder Link](https://)* |
+| CCIEA | *Placeholder text...* | *Placeholder text...* | *[Placeholder Link](https://)* |
+
+
