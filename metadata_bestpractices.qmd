@@ -1,6 +1,5 @@
 ---
 title: "Metadata Best Practices"
-format: html
 ---
 
 ## FAIR Data Compliance
