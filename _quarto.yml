@@ -34,6 +34,8 @@ book:
         - Final_Products_Reports.qmd
     - part: "Other Products"
     - part: "Data Management & Best Practices"
+      chapters:
+          - metadata_bestpractices.qmd
     
 format:
   html:
