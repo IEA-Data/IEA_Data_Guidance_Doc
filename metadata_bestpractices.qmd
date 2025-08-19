@@ -2,6 +2,19 @@
 title: "Metadata Best Practices"
 ---
 
+## Data Life Cycle
+* Why is data important?
+  + In a knowledge based society, data is what leads to success. Data and reproducibility create trust and decision making. 
+  + Properly curated, data and geospatial products can lead to large societal and economic returns. 
+  + When data is used as a resource for future products it becomes an indispensable asset. 
+ 
+![Caption](DIKW+Pyramid.jpg)
+
+[![Caption](lifecyle.png)](https://dataoneorg.github.io/Education/)
+
+Properly 
+### What is Data Management?
+
 ## FAIR Data Compliance
 
 ## Open Data Policies within NOAA
