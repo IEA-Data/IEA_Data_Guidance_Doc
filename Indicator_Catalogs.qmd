@@ -1,10 +1,12 @@
 ---
-title: "Indicator Catalogs"
+title: "Indicator Catalogs and Technical Documentation"
 ---
 
 ## Alaska
 
 ## California Current
+[California Current Indicator Technical Documentation Webpage](https://cciea-esr.github.io/ESR-Technical-Documentation-FY2025/)
+[California Current Indicator Github Repository](https://github.com/CCIEA-esr/ESR-Technical-Documentation-FY2025)
 
 ## Gulf/Southeast
 
