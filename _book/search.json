@@ -1,0 +1,462 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IEA Guidance Doc",
+    "section": "",
+    "text": "About this document\nHere’s where we talk about what this document will be used for and how we envision that it will be used. The text will flow around the cover image defined in the yml, but other figures can be included as well.",
+    "crumbs": [
+      "About this document"
+    ]
+  },
+  {
+    "objectID": "index.html#iea-regions",
+    "href": "index.html#iea-regions",
+    "title": "IEA Guidance Doc",
+    "section": "IEA regions",
+    "text": "IEA regions\nor whatever else we want to include\n\n\n\nIEA Conceptual Model",
+    "crumbs": [
+      "About this document"
+    ]
+  },
+  {
+    "objectID": "How_To_Use_GitHub.html",
+    "href": "How_To_Use_GitHub.html",
+    "title": "1  How to Use GitHub Effectively",
+    "section": "",
+    "text": "2 Features\n\nRead Me Files\n\nREADMEs Best Practices\nUses\n\nOrganization Wide\nRepository Specific\n\n\nIssue Templates\n\nConfiguring issue templates for your repository\nSyntax for GitHub’s form schema\n\nProjects\n\nA project is an adaptable spreadsheet, task-board, and road map that integrates with your issues and pull requests on GitHub to help you plan and track your work effectively. You can create and customize multiple views by filtering, sorting, grouping your issues and pull requests, visualize work with configurable charts, and add custom fields to track metadata specific to your team. Rather than enforcing a specific methodology, a project provides flexible features you can customize to your team's needs and processes.\nProjects Quickstart Guide\n\nDiscussions\n\nDiscussions Quickstart Guide\n\n\n\n\n3 Resources\n\nNMFS OpenSci GitHub and Git\nGit, GitHub, and R Workshops (Eli Holmes)",
+    "crumbs": [
+      "Working Together",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>How to Use GitHub Effectively</span>"
+    ]
+  },
+  {
+    "objectID": "Code_of_Conduct.html",
+    "href": "Code_of_Conduct.html",
+    "title": "2  Code of Conduct",
+    "section": "",
+    "text": "HOLD TEXT",
+    "crumbs": [
+      "Working Together",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Code of Conduct</span>"
+    ]
+  },
+  {
+    "objectID": "How_to_Contribute.html",
+    "href": "How_to_Contribute.html",
+    "title": "3  How to Contribute",
+    "section": "",
+    "text": "HOLD TEXT",
+    "crumbs": [
+      "Working Together",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>How to Contribute</span>"
+    ]
+  },
+  {
+    "objectID": "Useful_Resources.html",
+    "href": "Useful_Resources.html",
+    "title": "4  Useful Resources",
+    "section": "",
+    "text": "HOLD TEXT",
+    "crumbs": [
+      "Working Together",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Useful Resources</span>"
+    ]
+  },
+  {
+    "objectID": "Timelines.html",
+    "href": "Timelines.html",
+    "title": "5  Timelines/Calendar",
+    "section": "",
+    "text": "5.1 Alaska",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Timelines/Calendar</span>"
+    ]
+  },
+  {
+    "objectID": "Timelines.html#california-current",
+    "href": "Timelines.html#california-current",
+    "title": "5  Timelines/Calendar",
+    "section": "5.2 California Current",
+    "text": "5.2 California Current\n\nOctober - Initial Data Call\nNovember - Data, Figure, and Text Submissions\nDecember - Complete Data, Figure, and Text Submissions; Develop Primary Themes and Edit Document\nearly January - Complete Initial Draft, Coauthor Review and Edits\nlate January - Submit for Internal Review\nearly February - Submit to Council Briefing Book\nMarch - Present to Pacific Fishery Management Council",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Timelines/Calendar</span>"
+    ]
+  },
+  {
+    "objectID": "Timelines.html#gulfsoutheast",
+    "href": "Timelines.html#gulfsoutheast",
+    "title": "5  Timelines/Calendar",
+    "section": "5.3 Gulf/Southeast",
+    "text": "5.3 Gulf/Southeast",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Timelines/Calendar</span>"
+    ]
+  },
+  {
+    "objectID": "Timelines.html#hawaii",
+    "href": "Timelines.html#hawaii",
+    "title": "5  Timelines/Calendar",
+    "section": "5.4 Hawai’i",
+    "text": "5.4 Hawai’i",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Timelines/Calendar</span>"
+    ]
+  },
+  {
+    "objectID": "Timelines.html#northeast",
+    "href": "Timelines.html#northeast",
+    "title": "5  Timelines/Calendar",
+    "section": "5.5 Northeast",
+    "text": "5.5 Northeast",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Timelines/Calendar</span>"
+    ]
+  },
+  {
+    "objectID": "Data_Collection.html",
+    "href": "Data_Collection.html",
+    "title": "6  Data Collection",
+    "section": "",
+    "text": "6.1 Alaska",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Collection</span>"
+    ]
+  },
+  {
+    "objectID": "Data_Collection.html#california-current",
+    "href": "Data_Collection.html#california-current",
+    "title": "6  Data Collection",
+    "section": "6.2 California Current",
+    "text": "6.2 California Current",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Collection</span>"
+    ]
+  },
+  {
+    "objectID": "Data_Collection.html#gulfsoutheast",
+    "href": "Data_Collection.html#gulfsoutheast",
+    "title": "6  Data Collection",
+    "section": "6.3 Gulf/Southeast",
+    "text": "6.3 Gulf/Southeast",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Collection</span>"
+    ]
+  },
+  {
+    "objectID": "Data_Collection.html#hawaii",
+    "href": "Data_Collection.html#hawaii",
+    "title": "6  Data Collection",
+    "section": "6.4 Hawai’i",
+    "text": "6.4 Hawai’i",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Collection</span>"
+    ]
+  },
+  {
+    "objectID": "Data_Collection.html#northeast",
+    "href": "Data_Collection.html#northeast",
+    "title": "6  Data Collection",
+    "section": "6.5 Northeast",
+    "text": "6.5 Northeast",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Collection</span>"
+    ]
+  },
+  {
+    "objectID": "Indicator_Catalogs.html",
+    "href": "Indicator_Catalogs.html",
+    "title": "7  Indicator Catalogs and Technical Documentation",
+    "section": "",
+    "text": "7.1 Alaska",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs and Technical Documentation</span>"
+    ]
+  },
+  {
+    "objectID": "Indicator_Catalogs.html#california-current",
+    "href": "Indicator_Catalogs.html#california-current",
+    "title": "7  Indicator Catalogs and Technical Documentation",
+    "section": "7.2 California Current",
+    "text": "7.2 California Current\nCalifornia Current Indicator Technical Documentation Webpage California Current Indicator Github Repository",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs and Technical Documentation</span>"
+    ]
+  },
+  {
+    "objectID": "Indicator_Catalogs.html#gulfsoutheast",
+    "href": "Indicator_Catalogs.html#gulfsoutheast",
+    "title": "7  Indicator Catalogs and Technical Documentation",
+    "section": "7.3 Gulf/Southeast",
+    "text": "7.3 Gulf/Southeast",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs and Technical Documentation</span>"
+    ]
+  },
+  {
+    "objectID": "Indicator_Catalogs.html#hawaii",
+    "href": "Indicator_Catalogs.html#hawaii",
+    "title": "7  Indicator Catalogs and Technical Documentation",
+    "section": "7.4 Hawai’i",
+    "text": "7.4 Hawai’i",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs and Technical Documentation</span>"
+    ]
+  },
+  {
+    "objectID": "Indicator_Catalogs.html#northeast",
+    "href": "Indicator_Catalogs.html#northeast",
+    "title": "7  Indicator Catalogs and Technical Documentation",
+    "section": "7.5 Northeast",
+    "text": "7.5 Northeast\nNortheast Indicator Catalog Northeast Technical Documentation",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs and Technical Documentation</span>"
+    ]
+  },
+  {
+    "objectID": "Document_Creation.html",
+    "href": "Document_Creation.html",
+    "title": "8  Document Creation",
+    "section": "",
+    "text": "8.1 Alaska",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Document Creation</span>"
+    ]
+  },
+  {
+    "objectID": "Document_Creation.html#california-current",
+    "href": "Document_Creation.html#california-current",
+    "title": "8  Document Creation",
+    "section": "8.2 California Current",
+    "text": "8.2 California Current",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Document Creation</span>"
+    ]
+  },
+  {
+    "objectID": "Document_Creation.html#gulfsoutheast",
+    "href": "Document_Creation.html#gulfsoutheast",
+    "title": "8  Document Creation",
+    "section": "8.3 Gulf/Southeast",
+    "text": "8.3 Gulf/Southeast\nThe Gulf IEA has used the NMFS Open Science Quarto Book Template to create Ecosystem Status Reports in the standard report format. We created [directions)](https://html-preview.github.io/?url=https://github.com/Gulf-IEA/Caribbean-ESR-2/blob/main/METHODS_DOC.html for using the NMFS Quarto book template to create an ESR report for our region.\nAn example of a report that was created for the Gulf IEA using these methods is the Caribbean ESR.",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Document Creation</span>"
+    ]
+  },
+  {
+    "objectID": "Document_Creation.html#hawaii",
+    "href": "Document_Creation.html#hawaii",
+    "title": "8  Document Creation",
+    "section": "8.4 Hawai’i",
+    "text": "8.4 Hawai’i",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Document Creation</span>"
+    ]
+  },
+  {
+    "objectID": "Document_Creation.html#northeast",
+    "href": "Document_Creation.html#northeast",
+    "title": "8  Document Creation",
+    "section": "8.5 Northeast",
+    "text": "8.5 Northeast",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Document Creation</span>"
+    ]
+  },
+  {
+    "objectID": "Final_Products_Reports.html",
+    "href": "Final_Products_Reports.html",
+    "title": "9  Final Products - ESR Report",
+    "section": "",
+    "text": "9.1 Alaska\nLink to Alaska Ecosystem Status Reports. This link contains all Gulf of Alaska, Bering Sea, and Aleutian Islands ESRs.",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Final Products - ESR Report</span>"
+    ]
+  },
+  {
+    "objectID": "Final_Products_Reports.html#california-current",
+    "href": "Final_Products_Reports.html#california-current",
+    "title": "9  Final Products - ESR Report",
+    "section": "9.2 California Current",
+    "text": "9.2 California Current\nLink to California Current Ecosystem Status reports",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Final Products - ESR Report</span>"
+    ]
+  },
+  {
+    "objectID": "Final_Products_Reports.html#gulfsoutheast",
+    "href": "Final_Products_Reports.html#gulfsoutheast",
+    "title": "9  Final Products - ESR Report",
+    "section": "9.3 Gulf/Southeast",
+    "text": "9.3 Gulf/Southeast\nLink to Gulf Ecosystem Status Reports Link to Southeast Atlantic Ecosystem Status Reports Link to Caribbean Ecosystem Status Report",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Final Products - ESR Report</span>"
+    ]
+  },
+  {
+    "objectID": "Final_Products_Reports.html#hawaii",
+    "href": "Final_Products_Reports.html#hawaii",
+    "title": "9  Final Products - ESR Report",
+    "section": "9.4 Hawai’i",
+    "text": "9.4 Hawai’i\nLink to Hawai’i Ecosystem Status Reports",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Final Products - ESR Report</span>"
+    ]
+  },
+  {
+    "objectID": "Final_Products_Reports.html#northeast",
+    "href": "Final_Products_Reports.html#northeast",
+    "title": "9  Final Products - ESR Report",
+    "section": "9.5 Northeast",
+    "text": "9.5 Northeast\nLink to Northeast State of the Ecosystem Reports",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Final Products - ESR Report</span>"
+    ]
+  },
+  {
+    "objectID": "Ideas_Works_In_Progress.html",
+    "href": "Ideas_Works_In_Progress.html",
+    "title": "10  Ideas and Works in Progress",
+    "section": "",
+    "text": "HOLD TEXT",
+    "crumbs": [
+      "Other Products",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Ideas and Works in Progress</span>"
+    ]
+  },
+  {
+    "objectID": "Final_Products_Other.html",
+    "href": "Final_Products_Other.html",
+    "title": "11  Final Products",
+    "section": "",
+    "text": "11.1 Data Accessibility",
+    "crumbs": [
+      "Other Products",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Final Products</span>"
+    ]
+  },
+  {
+    "objectID": "Final_Products_Other.html#tools",
+    "href": "Final_Products_Other.html#tools",
+    "title": "11  Final Products",
+    "section": "11.2 Tools",
+    "text": "11.2 Tools\n\n11.2.1 R Packages\nThis section references R packages that are used by the various regions to house/analyze/plot data used in IEA products.\n\n\n\nPackage name\nBrief description\nRegion(s) where used\nLink\n\n\n\n\nIEAnalyzeR\nPlaceholder text…\nPlaceholder text…\nPlaceholder Link\n\n\necodata\nPlaceholder text…\nPlaceholder text…\nPlaceholder Link\n\n\nCCIEA\nPlaceholder text…\nPlaceholder text…\nPlaceholder Link",
+    "crumbs": [
+      "Other Products",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Final Products</span>"
+    ]
+  },
+  {
+    "objectID": "Final_Products_Other.html#interactive-products",
+    "href": "Final_Products_Other.html#interactive-products",
+    "title": "11  Final Products",
+    "section": "11.3 Interactive Products",
+    "text": "11.3 Interactive Products",
+    "crumbs": [
+      "Other Products",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Final Products</span>"
+    ]
+  },
+  {
+    "objectID": "Final_Products_Other.html#reportswebsites",
+    "href": "Final_Products_Other.html#reportswebsites",
+    "title": "11  Final Products",
+    "section": "11.4 Reports/Websites",
+    "text": "11.4 Reports/Websites",
+    "crumbs": [
+      "Other Products",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Final Products</span>"
+    ]
+  },
+  {
+    "objectID": "metadata_bestpractices.html",
+    "href": "metadata_bestpractices.html",
+    "title": "12  Metadata Best Practices",
+    "section": "",
+    "text": "12.1 Data Life Cycle\nProperly ### What is Data Management?",
+    "crumbs": [
+      "Data Management & Best Practices",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "metadata_bestpractices.html#data-life-cycle",
+    "href": "metadata_bestpractices.html#data-life-cycle",
+    "title": "12  Metadata Best Practices",
+    "section": "",
+    "text": "Why is data important?\n\nIn a knowledge based society, data is what leads to success. Data and reproducibility create trust and decision making.\nProperly curated, data and geospatial products can lead to large societal and economic returns.\nWhen data is used as a resource for future products it becomes an indispensable asset.\n\n\n\n\n\nCaption\n\n\n\n\n\nCaption",
+    "crumbs": [
+      "Data Management & Best Practices",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "metadata_bestpractices.html#fair-data-compliance",
+    "href": "metadata_bestpractices.html#fair-data-compliance",
+    "title": "12  Metadata Best Practices",
+    "section": "12.2 FAIR Data Compliance",
+    "text": "12.2 FAIR Data Compliance",
+    "crumbs": [
+      "Data Management & Best Practices",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "metadata_bestpractices.html#open-data-policies-within-noaa",
+    "href": "metadata_bestpractices.html#open-data-policies-within-noaa",
+    "title": "12  Metadata Best Practices",
+    "section": "12.3 Open Data Policies within NOAA",
+    "text": "12.3 Open Data Policies within NOAA",
+    "crumbs": [
+      "Data Management & Best Practices",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "metadata_bestpractices.html#archiving-options",
+    "href": "metadata_bestpractices.html#archiving-options",
+    "title": "12  Metadata Best Practices",
+    "section": "12.4 Archiving options",
+    "text": "12.4 Archiving options",
+    "crumbs": [
+      "Data Management & Best Practices",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "Metadata_creation_tools.html",
+    "href": "Metadata_creation_tools.html",
+    "title": "13  Metadata Creation Tools",
+    "section": "",
+    "text": "14 R Packages\n\n\n15 InPort\n\n\n16 ERDDAP",
+    "crumbs": [
+      "Data Management & Best Practices",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Metadata Creation Tools</span>"
+    ]
+  }
+]
