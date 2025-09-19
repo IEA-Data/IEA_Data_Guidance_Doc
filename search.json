@@ -14,7 +14,7 @@
     "href": "index.html#iea-regions",
     "title": "IEA Guidance Doc",
     "section": "IEA regions",
-    "text": "IEA regions\nor whatever else we want to include\n\n\n\nIEA Conceptual Model\n\n\nTHIS IS A TEST",
+    "text": "IEA regions\nor whatever else we want to include\n\n\n\nIEA Conceptual Model\n\n\nTHIS IS A TESTIER TEST",
     "crumbs": [
       "About this document"
     ]
@@ -69,6 +69,17 @@
     "title": "5  Timelines/Calendar",
     "section": "",
     "text": "5.1 Alaska",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Timelines/Calendar</span>"
+    ]
+  },
+  {
+    "objectID": "Timelines.html#alaska",
+    "href": "Timelines.html#alaska",
+    "title": "5  Timelines/Calendar",
+    "section": "",
+    "text": "May - Preview of Ecosystem and Economic Conditions (PEEC) Workshop\nJuly - Initial Data Call\nAugust - First deadline for submissions (usually winter/spring data)\nSeptember - ESR presentation to Crab Plan Team and to Groundfish Plan Team\n      - Second deadline for submissions (usually summer survey data)\nOctober - ESR presentation to the North Pacific Fishery Management Council, Science and Statistical Committee (crab harvest specifications)\n    - Risk table development with groundfish stock assessment authors\n    - Submit for Internal review\n    - Submit for Groundifish Plan Team meeting public agenda and review\nNovember -Present to Groundfish Plan Team\n     - Prepare ESR 'In Briefs'\n     - Submit final Report and 'In Brief' to Council public agenda and review\nDecember - Present to North Pacific Fishery Management Council (groundfish harvest specifications)\n     - Post ESR and In Brief on NOAA websites",
     "crumbs": [
       "ESRs & SoEs",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Timelines/Calendar</span>"
