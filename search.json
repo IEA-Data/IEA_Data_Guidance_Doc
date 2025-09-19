@@ -244,7 +244,7 @@
     "href": "Document_Creation.html",
     "title": "8  Document Creation",
     "section": "",
-    "text": "8.1 Alaska",
+    "text": "8.1 Alaska\nThe Alaska ESR uses a LaTeX template to produce the final documents. We have a standard Word Document template for each indicator/contribution that contributing authors email to the ESR team. These Word docs and any corresponding Excel data files are stored in a shared Google Drive, edited, and transferred to the Latex Document",
     "crumbs": [
       "ESRs & SoEs",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Document Creation</span>"
