@@ -3,6 +3,8 @@ title: "Indicator Catalogs and Technical Documentation"
 ---
 
 ## Alaska
+[Alaska ESR Report Card indicators and available data](https://apex.psmfc.org/akfin/r/akfin/esr/data?session=11090087206872)
+* A full list of indicators can be found in the Table of Comments of each Alaska ESR. The written description of each indicator is included in the relevant section of the ESR.
 
 ## California Current
 [California Current Indicator Technical Documentation Webpage](https://cciea-esr.github.io/ESR-Technical-Documentation-FY2025/)
