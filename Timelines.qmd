@@ -34,3 +34,19 @@ title: "Timelines/Calendar"
 ## Hawai'i
 
 ## Northeast
+* August - State of the Ecosystem Kick-off meeting and call for data
+* October - Data deadline for new data products and preliminary data
+* December - Final data deadline 
+           - Preliminary data review
+* January - Data synthesis
+          - Report writing
+* Febuary - Finalize graphics, plots and text
+          - Internal review
+* March - Presentations to the Mid-Atlantic and New England Fishery Management Council Scientific and Statistical Committees
+* April - Presentations to the Mid-Atlantic and New England Fishery Management Councils
+* May - Submit final reports to the NOAA Institutional Repository
+      - Public presentation
+* June - Debrief meeting
+* July - Fishery management council indicatory prioritization meetings
+
+
