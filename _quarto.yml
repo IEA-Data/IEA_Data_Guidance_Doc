@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: docs
+  # output-dir: docs
 
 book:
   title: "IEA Guidance Doc"
@@ -33,7 +33,13 @@ book:
         - Document_Creation.qmd
         - Final_Products_Reports.qmd
     - part: "Other Products"
+      chapters:
+        - Ideas_Works_In_Progress.qmd
+        - Final_Products_Other.qmd        
     - part: "Data Management & Best Practices"
+      chapters:
+          - metadata_bestpractices.qmd
+          - Metadata_creation_tools.qmd
     
 format:
   html:

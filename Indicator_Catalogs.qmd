@@ -1,13 +1,19 @@
 ---
-title: "Indicator Catalogs"
+title: "Indicator Catalogs and Technical Documentation"
 ---
 
 ## Alaska
+[Alaska ESR Report Card indicators and available data](https://apex.psmfc.org/akfin/r/akfin/esr/data?session=11090087206872)
+* A full list of indicators can be found in the Table of Comments of each Alaska ESR. The written description of each indicator is included in the relevant section of the ESR.
 
 ## California Current
+[California Current Indicator Technical Documentation Webpage](https://cciea-esr.github.io/ESR-Technical-Documentation-FY2025/)
+[California Current Indicator Github Repository](https://github.com/CCIEA-esr/ESR-Technical-Documentation-FY2025)
 
 ## Gulf/Southeast
 
 ## Hawai'i
 
 ## Northeast
+[Northeast Indicator Catalog](https://noaa-edab.github.io/catalog/)
+[Northeast Technical Documentation](https://noaa-edab.github.io/tech-doc/)

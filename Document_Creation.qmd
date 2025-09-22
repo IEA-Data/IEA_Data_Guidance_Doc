@@ -3,10 +3,14 @@ title: "Document Creation"
 ---
 
 ## Alaska
+The Alaska ESR uses a LaTeX template to produce the final documents. We have a standard Word Document template for each indicator/contribution that contributing authors email to the ESR team. These Word docs and any corresponding Excel data files are stored in a shared Google Drive, edited, and transferred to the Latex Document
 
 ## California Current
 
 ## Gulf/Southeast
+The Gulf IEA has used the [NMFS Open Science Quarto Book Template](https://github.com/nmfs-opensci/NOAA-quarto-book) to create Ecosystem Status Reports in the standard report format. We created [directions)](https://html-preview.github.io/?url=https://github.com/Gulf-IEA/Caribbean-ESR-2/blob/main/METHODS_DOC.html for using the NMFS Quarto book template to create an ESR report for our region. 
+
+An example of a report that was created for the Gulf IEA using these methods is the [Caribbean ESR](https://github.com/Gulf-IEA/Caribbean-ESR-2).
 
 ## Hawai'i
 
