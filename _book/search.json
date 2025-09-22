@@ -178,7 +178,7 @@
     "href": "Indicator_Catalogs.html",
     "title": "7  Indicator Catalogs and Technical Documentation",
     "section": "",
-    "text": "7.1 Alaska",
+    "text": "7.1 Alaska\nAlaska ESR Report Card indicators and available data * A full list of indicators can be found in the Table of Comments of each Alaska ESR. The written description of each indicator is included in the relevant section of the ESR.",
     "crumbs": [
       "ESRs & SoEs",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs and Technical Documentation</span>"
@@ -233,7 +233,7 @@
     "href": "Document_Creation.html",
     "title": "8  Document Creation",
     "section": "",
-    "text": "8.1 Alaska",
+    "text": "8.1 Alaska\nThe Alaska ESR uses a LaTeX template to produce the final documents. We have a standard Word Document template for each indicator/contribution that contributing authors email to the ESR team. These Word docs and any corresponding Excel data files are stored in a shared Google Drive, edited, and transferred to the Latex Document",
     "crumbs": [
       "ESRs & SoEs",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Document Creation</span>"
@@ -457,6 +457,17 @@
     "crumbs": [
       "Data Management & Best Practices",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Metadata Creation Tools</span>"
+    ]
+  },
+  {
+    "objectID": "Timelines.html#alaska",
+    "href": "Timelines.html#alaska",
+    "title": "5  Timelines/Calendar",
+    "section": "",
+    "text": "May - Preview of Ecosystem and Economic Conditions (PEEC) Workshop\nJuly - Initial Data Call\nAugust - First deadline for submissions (usually winter/spring data)\nSeptember - ESR presentation to Crab Plan Team and to Groundfish Plan Team\n      - Second deadline for submissions (usually summer survey data)\nOctober - ESR presentation to the North Pacific Fishery Management Council, Science and Statistical Committee (crab harvest specifications)\n    - Risk table development with groundfish stock assessment authors\n    - Submit for Internal review\n    - Submit for Groundifish Plan Team meeting public agenda and review\nNovember -Present to Groundfish Plan Team\n     - Prepare ESR 'In Briefs'\n     - Submit final Report and 'In Brief' to Council public agenda and review\nDecember - Present to North Pacific Fishery Management Council (groundfish harvest specifications)\n     - Post ESR and In Brief on NOAA websites",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Timelines/Calendar</span>"
     ]
   }
 ]

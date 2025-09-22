@@ -176,56 +176,56 @@
   {
     "objectID": "Indicator_Catalogs.html",
     "href": "Indicator_Catalogs.html",
-    "title": "7  Indicator Catalogs",
+    "title": "7  Indicator Catalogs and Technical Documentation",
     "section": "",
-    "text": "7.1 Alaska",
+    "text": "7.1 Alaska\nAlaska ESR Report Card indicators and available data * A full list of indicators can be found in the Table of Comments of each Alaska ESR. The written description of each indicator is included in the relevant section of the ESR.",
     "crumbs": [
       "ESRs & SoEs",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs and Technical Documentation</span>"
     ]
   },
   {
     "objectID": "Indicator_Catalogs.html#california-current",
     "href": "Indicator_Catalogs.html#california-current",
-    "title": "7  Indicator Catalogs",
+    "title": "7  Indicator Catalogs and Technical Documentation",
     "section": "7.2 California Current",
-    "text": "7.2 California Current",
+    "text": "7.2 California Current\nCalifornia Current Indicator Technical Documentation Webpage California Current Indicator Github Repository",
     "crumbs": [
       "ESRs & SoEs",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs and Technical Documentation</span>"
     ]
   },
   {
     "objectID": "Indicator_Catalogs.html#gulfsoutheast",
     "href": "Indicator_Catalogs.html#gulfsoutheast",
-    "title": "7  Indicator Catalogs",
+    "title": "7  Indicator Catalogs and Technical Documentation",
     "section": "7.3 Gulf/Southeast",
     "text": "7.3 Gulf/Southeast",
     "crumbs": [
       "ESRs & SoEs",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs and Technical Documentation</span>"
     ]
   },
   {
     "objectID": "Indicator_Catalogs.html#hawaii",
     "href": "Indicator_Catalogs.html#hawaii",
-    "title": "7  Indicator Catalogs",
+    "title": "7  Indicator Catalogs and Technical Documentation",
     "section": "7.4 Hawai’i",
     "text": "7.4 Hawai’i",
     "crumbs": [
       "ESRs & SoEs",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs and Technical Documentation</span>"
     ]
   },
   {
     "objectID": "Indicator_Catalogs.html#northeast",
     "href": "Indicator_Catalogs.html#northeast",
-    "title": "7  Indicator Catalogs",
+    "title": "7  Indicator Catalogs and Technical Documentation",
     "section": "7.5 Northeast",
-    "text": "7.5 Northeast",
+    "text": "7.5 Northeast\nNortheast Indicator Catalog Northeast Technical Documentation",
     "crumbs": [
       "ESRs & SoEs",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Indicator Catalogs and Technical Documentation</span>"
     ]
   },
   {
@@ -233,7 +233,7 @@
     "href": "Document_Creation.html",
     "title": "8  Document Creation",
     "section": "",
-    "text": "8.1 Alaska",
+    "text": "8.1 Alaska\nThe Alaska ESR uses a LaTeX template to produce the final documents. We have a standard Word Document template for each indicator/contribution that contributing authors email to the ESR team. These Word docs and any corresponding Excel data files are stored in a shared Google Drive, edited, and transferred to the Latex Document",
     "crumbs": [
       "ESRs & SoEs",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Document Creation</span>"
@@ -398,7 +398,7 @@
     "href": "metadata_bestpractices.html",
     "title": "12  Metadata Best Practices",
     "section": "",
-    "text": "12.1 FAIR Data Compliance",
+    "text": "12.1 Data Life Cycle\nProperly ### What is Data Management?",
     "crumbs": [
       "Data Management & Best Practices",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
@@ -408,8 +408,8 @@
     "objectID": "metadata_bestpractices.html#open-data-policies-within-noaa",
     "href": "metadata_bestpractices.html#open-data-policies-within-noaa",
     "title": "12  Metadata Best Practices",
-    "section": "12.2 Open Data Policies within NOAA",
-    "text": "12.2 Open Data Policies within NOAA",
+    "section": "12.3 Open Data Policies within NOAA",
+    "text": "12.3 Open Data Policies within NOAA",
     "crumbs": [
       "Data Management & Best Practices",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
@@ -419,8 +419,8 @@
     "objectID": "metadata_bestpractices.html#archiving-options",
     "href": "metadata_bestpractices.html#archiving-options",
     "title": "12  Metadata Best Practices",
-    "section": "12.3 Archiving options",
-    "text": "12.3 Archiving options",
+    "section": "12.4 Archiving options",
+    "text": "12.4 Archiving options",
     "crumbs": [
       "Data Management & Best Practices",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
@@ -435,6 +435,39 @@
     "crumbs": [
       "Data Management & Best Practices",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Metadata Creation Tools</span>"
+    ]
+  },
+  {
+    "objectID": "Timelines.html#alaska",
+    "href": "Timelines.html#alaska",
+    "title": "5  Timelines/Calendar",
+    "section": "",
+    "text": "May - Preview of Ecosystem and Economic Conditions (PEEC) Workshop\nJuly - Initial Data Call\nAugust - First deadline for submissions (usually winter/spring data)\nSeptember - ESR presentation to Crab Plan Team and to Groundfish Plan Team\n      - Second deadline for submissions (usually summer survey data)\nOctober - ESR presentation to the North Pacific Fishery Management Council, Science and Statistical Committee (crab harvest specifications)\n    - Risk table development with groundfish stock assessment authors\n    - Submit for Internal review\n    - Submit for Groundifish Plan Team meeting public agenda and review\nNovember -Present to Groundfish Plan Team\n     - Prepare ESR 'In Briefs'\n     - Submit final Report and 'In Brief' to Council public agenda and review\nDecember - Present to North Pacific Fishery Management Council (groundfish harvest specifications)\n     - Post ESR and In Brief on NOAA websites",
+    "crumbs": [
+      "ESRs & SoEs",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Timelines/Calendar</span>"
+    ]
+  },
+  {
+    "objectID": "metadata_bestpractices.html#data-life-cycle",
+    "href": "metadata_bestpractices.html#data-life-cycle",
+    "title": "12  Metadata Best Practices",
+    "section": "",
+    "text": "Why is data important?\n\nIn a knowledge based society, data is what leads to success. Data and reproducibility create trust and decision making.\nProperly curated, data and geospatial products can lead to large societal and economic returns.\nWhen data is used as a resource for future products it becomes an indispensable asset.\n\n\n\n\n\nCaption\n\n\n\n\n\nCaption",
+    "crumbs": [
+      "Data Management & Best Practices",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "metadata_bestpractices.html#fair-data-compliance",
+    "href": "metadata_bestpractices.html#fair-data-compliance",
+    "title": "12  Metadata Best Practices",
+    "section": "12.2 FAIR Data Compliance",
+    "text": "12.2 FAIR Data Compliance",
+    "crumbs": [
+      "Data Management & Best Practices",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
     ]
   }
 ]
