@@ -8,9 +8,9 @@ title: "Metadata Best Practices"
   + Properly curated, data and geospatial products can lead to large societal and economic returns. 
   + When data is used as a resource for future products it becomes an indispensable asset. 
  
-![Caption](DIKW+Pyramid.jpg)
+![Caption](images/DIKW+Pyramid.jpg)
 
-[![Caption](lifecyle.png)](https://dataoneorg.github.io/Education/)
+[![Caption](images/lifecyle.png)](https://dataoneorg.github.io/Education/)
 
 Properly 
 ### What is Data Management?
