@@ -288,7 +288,7 @@
     "href": "Document_Creation.html#northeast",
     "title": "8  Document Creation",
     "section": "8.5 Northeast",
-    "text": "8.5 Northeast",
+    "text": "8.5 Northeast\nThe Northeast SOE team uses an Rmarkdown system to create their reports. Figures are created outside of the Rmarkdown in a script and are read into the report where needed. Conditional knitting of child documents from a core parent document creates separate reports for the New England and Mid Atlantic regions. The report can also be knit in draft mode, which creates a single report that contains all content for both regions, making text edits more straightforward and less repetitive. All code is available on our github repository.",
     "crumbs": [
       "ESRs & SoEs",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Document Creation</span>"
