@@ -5,9 +5,22 @@ title: "Data Collection"
 ## Alaska
 
 ## California Current
+The CCIEA is working on transferring the indicator data uploader from web pages to GitHub using OJS and GitHub actions
+
+[Uploader (2024)](https://oceanview.pfeg.noaa.gov/cciea-uploader)
+[Upload status (2024)](https://oceanview.pfeg.noaa.gov/cciea-uploader/status.html)
 
 ## Gulf/Southeast
+The Gulf IEA (via development of the Gulf Wind ESR) is currently developing/using issue templates to compile data or links to data while also collecting relevant metadata. The goal is to link this information directly into the Indicator Catalog.
+
+[Tech Doc Issue Template](https://github.com/Gulf-IEA/Wind-ESR-Site/blob/main/.github/ISSUE_TEMPLATE/tech_doc_submission.yml)
 
 ## Hawai'i
 
 ## Northeast
+The Northeast IEA uses a Google form to initiate the submission and users have the option to complete everything in the Google form or go to complete the upload GitHub issues. Both the form and GitHub issues have space for contributors to add methods for [Tech Doc](https://noaa-edab.github.io/tech-doc/) as well as a synthesis for the [indicator catalog](https://noaa-edab.github.io/catalog/).
+[2026 Google Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSf_XSR9MLdKYacmfEM5HrwuATSaP1cJyNsz8gMt6CVjpISOQw/viewform)
+[2026 GitHub Issue for new data submission](https://github.com/NOAA-EDAB/catalog/issues/new?assignees=BBeltz1&labels=submission&projects=&template=catalog_submission.yml&title=%5BSubmission%5D%3A+)
+[2026 GitHub Issue to edit existing catalog page](https://github.com/NOAA-EDAB/catalog/issues/new?assignees=BBeltz1&labels=page+edit&projects=&template=page_edit.yml&title=%5BCatalog+Page+Edit%5D%3A+)
+[2026 GitHub issue for new Tech Doc submission](https://github.com/NOAA-EDAB/tech-doc/issues/new?assignees=BBeltz1&labels=submission&projects=&template=techdoc_submission.yml&title=%5BSubmission%5D%3A+)
+[2026 GitHub issue for updated Tech Doc submissions](https://github.com/NOAA-EDAB/tech-doc/issues/new?assignees=BBeltz1&labels=page+edit&projects=&template=page_edit.yml&title=%5BTech+DOc+Page+Edit%5D%3A+)
