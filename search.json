@@ -178,7 +178,7 @@
     "href": "Data_Collection.html#northeast",
     "title": "6  Data Collection",
     "section": "6.5 Northeast",
-    "text": "6.5 Northeast\nThe Northeast IEA uses a Google form to initiate the submission and users have the option to complete everything in the Google form or go to complete the upload GitHub issues. Both the form and GitHub issues have space for contributors to add methods for Tech Doc as well as a synthesis for the indicator catalog. 2026 Google Submission Form 2026 GitHub Issue for new data submission 2026 GitHub Issue to edit existing catalog page 2026 GitHub issue for new Tech Doc submission 2026 GitHub issue for updated Tech Doc submissions",
+    "text": "6.5 Northeast\nThe Northeast IEA uses a Google form to initiate the submission and users have the option to complete everything in the Google form or complete the upload using a GitHub issues template. Both the form and GitHub issues template have space for contributors to add methods for Tech Doc as well as a synthesis for the indicator catalog. 2026 Google Submission Form 2026 GitHub Issue for new data submission 2026 GitHub Issue to edit existing catalog page 2026 GitHub issue for new Tech Doc submission 2026 GitHub issue for updated Tech Doc submissions",
     "crumbs": [
       "ESRs & SoEs",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Data Collection</span>"
