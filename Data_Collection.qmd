@@ -7,8 +7,8 @@ title: "Data Collection"
 ## California Current
 The CCIEA is working on transferring the indicator data uploader from web pages to GitHub using OJS and GitHub actions
 
-[Uploader (2024)](https://oceanview.pfeg.noaa.gov/cciea-uploader)
-[Upload status (2024)](https://oceanview.pfeg.noaa.gov/cciea-uploader/status.html)
+[Uploader (2025-2026)](https://cciea-esr.github.io/CCIEA-uploader/)
+[Upload status (2025-2026)](https://cciea-esr.github.io/CCIEA-uploader/status.html)
 
 ## Gulf/Southeast
 The Gulf IEA (via development of the Gulf Wind ESR) is currently developing/using issue templates to compile data or links to data while also collecting relevant metadata. The goal is to link this information directly into the Indicator Catalog.
