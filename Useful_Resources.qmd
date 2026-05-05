@@ -3,4 +3,4 @@ title: "Useful Resources"
 format: html
 ---
 
-HOLD TEXT
+[Quick Guide to PARR for NOAA Scientists](https://sites.google.com/noaa.gov/noaa-data/data-policy-and-procedures/quick-guide-for-noaa-scientists?utm_source=announcement&utm_medium=email&utm_campaign=publishing-noaa-science-data)
