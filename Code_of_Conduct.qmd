@@ -2,8 +2,6 @@
 title: "Code of Conduct"
 format: html
 ---
-# NOAA Fisheries Integrated Toolbox Code of Conduct
-
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, or religion.
