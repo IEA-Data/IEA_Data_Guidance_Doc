@@ -35,7 +35,73 @@
     "href": "Code_of_Conduct.html",
     "title": "2  Code of Conduct",
     "section": "",
-    "text": "HOLD TEXT",
+    "text": "3 NOAA Fisheries Integrated Toolbox Code of Conduct",
+    "crumbs": [
+      "Working Together",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Code of Conduct</span>"
+    ]
+  },
+  {
+    "objectID": "Code_of_Conduct.html#our-pledge",
+    "href": "Code_of_Conduct.html#our-pledge",
+    "title": "2  Code of Conduct",
+    "section": "3.1 Our Pledge",
+    "text": "3.1 Our Pledge\nWe as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, or religion.\nWe pledge to act and interact in ways that contribute to an open, welcoming, and healthy community.",
+    "crumbs": [
+      "Working Together",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Code of Conduct</span>"
+    ]
+  },
+  {
+    "objectID": "Code_of_Conduct.html#our-standards",
+    "href": "Code_of_Conduct.html#our-standards",
+    "title": "2  Code of Conduct",
+    "section": "3.2 Our Standards",
+    "text": "3.2 Our Standards\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\n\nBeing respectful of differing opinions, viewpoints, and experiences\n\nGiving and gracefully accepting constructive feedback\n\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\n\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nTrolling, insulting or derogatory comments, and personal or political attacks\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\n\nPublic or private harassment\n\nPublishing others’ private information, such as a physical or email address, without their explicit permission\n\nOther conduct which could reasonably be considered inappropriate in a professional setting",
+    "crumbs": [
+      "Working Together",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Code of Conduct</span>"
+    ]
+  },
+  {
+    "objectID": "Code_of_Conduct.html#enforcement-responsibilities",
+    "href": "Code_of_Conduct.html#enforcement-responsibilities",
+    "title": "2  Code of Conduct",
+    "section": "3.3 Enforcement Responsibilities",
+    "text": "3.3 Enforcement Responsibilities\nCommunity leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.",
+    "crumbs": [
+      "Working Together",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Code of Conduct</span>"
+    ]
+  },
+  {
+    "objectID": "Code_of_Conduct.html#scope",
+    "href": "Code_of_Conduct.html#scope",
+    "title": "2  Code of Conduct",
+    "section": "3.4 Scope",
+    "text": "3.4 Scope\nThis Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.",
+    "crumbs": [
+      "Working Together",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Code of Conduct</span>"
+    ]
+  },
+  {
+    "objectID": "Code_of_Conduct.html#enforcement",
+    "href": "Code_of_Conduct.html#enforcement",
+    "title": "2  Code of Conduct",
+    "section": "3.5 Enforcement",
+    "text": "3.5 Enforcement\nInstances of behavior not in line with this code of conduct may be reported to The Office of Science and Technology’s Assessment and Monitoring Division Director, Patrick Lynch. Reports can be made either by emailing patrick.lynch@noaa.gov or using this form, which includes an option to report anonymously.\nAll complaints will be reviewed and investigated promptly and fairly by the community leader(s). The community leader(s) will take action that may include warning the offender or asking them to leave an event or an online channel either temporarily or permanently, or seeking help from law enforcement. In addition, the community leader(s) may suggest using existing NOAA support and reporting processes.\n\n3.5.1 NOAA support and reporting processes\nIf you experience discrimination, the EEO counseling and complaints process may be appropriate. Employees (current/former), National Oceanic Atmospheric Administration (NOAA) Corps Officers and Public Health Service, contractors, or applicants for employment who believe that they have been discriminated against or retaliated against may contact the NOAA Office of Civil Rights (OCR). Learn more at https://www.noaa.gov/civil-rights/eeo-counseling-complaints.\nIf you experience harassment (including but not limited to sexual harassment) and are a NOAA employee, affiliate, or contractor, it can be reported to NOAA’s Office of Human Capital Services (OHCS) Workforce Relations Division (WRD) 955 Program Office at DAO-955.OHCS@noaa.gov. This “955 Process” is distinct from EEO complaints because it offers an expedited review and aims to terminate incidents and take disciplinary action. Reporting is protected from retaliation. Learn more at https://www.noaa.gov/ohcs-955-and-sash and https://www.noaa.gov/civil-rights/sexual-harassment.\nIf you experience sexual assault or sexual harassment (SASH) and are a NOAA employee, affiliate, or contractor, contact the NOAA Workplace Violence Prevention and Response Program (WVPR) for comprehensive services. Additional guidance is in NAO 202-1106. WVPR staff can provide information on reporting, victim advocacy, and resources. Confidential consultation or restricted reporting is available via a WVPR Regional Coordinator at noaa.victimservices@noaa.gov. Support is also available 24/7 through the SASH Helpline (RAINN) at 1-866-288-6558 or http://NOAASASHHelpline.org/.",
+    "crumbs": [
+      "Working Together",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Code of Conduct</span>"
+    ]
+  },
+  {
+    "objectID": "Code_of_Conduct.html#attribution",
+    "href": "Code_of_Conduct.html#attribution",
+    "title": "2  Code of Conduct",
+    "section": "3.6 Attribution",
+    "text": "3.6 Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html. It was also inspired by the rOpenSci Code of Conduct and the code of conduct for the NOAA Scientific Review Group Meeting.",
     "crumbs": [
       "Working Together",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Code of Conduct</span>"
@@ -46,7 +112,7 @@
     "href": "How_to_Contribute.html",
     "title": "3  How to Contribute",
     "section": "",
-    "text": "HOLD TEXT",
+    "text": "The IEA Data GitHub is meant to be a tool for you by you. Contributing is essential to creating a community that works together. Here are some ways you can contribute.\n1) Discussion Board\nThe Discussion board is a place to introduce yourself, ask others for advice, note ideas for the future of the NEAP program, and show off products and tools you and your team have developed. Ideally this will bring together the varying regions and help establish a more unified national identity.\n2) Add to the IEA Data Guidance Doc\nThe IEA Data Guidance Document is an internal resource for NEAP members to reference. Unlike public facing websites that focus on disseminating finished products, this website emphasizes the inner workings of IEA projects like timelines, workflows, works in progress, and associated tools. Documenting your region’s methods prevents us from reinventing the wheel and allows every team to build upon our collective progress.\nTo contribute to the IEA Data Guidance Document, you can create a new branch in the GitHub repo, edit the guidance document as you see fit, and create a pull request. IEA Data working group members will review your edits and merge your branch. If you are new to GitHub please explore these resources from the Openscapes program.",
     "crumbs": [
       "Working Together",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>How to Contribute</span>"
@@ -57,7 +123,7 @@
     "href": "Useful_Resources.html",
     "title": "4  Useful Resources",
     "section": "",
-    "text": "HOLD TEXT",
+    "text": "Quick Guide to PARR for NOAA Scientists",
     "crumbs": [
       "Working Together",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Useful Resources</span>"
