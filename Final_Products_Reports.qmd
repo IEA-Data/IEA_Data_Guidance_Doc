@@ -3,7 +3,7 @@ title: "Final Products - ESR Report"
 ---
 
 ## Alaska
-[Link to Alaska Ecosystem Status Reports](https://www.fisheries.noaa.gov/alaska/ecosystems/ecosystem-status-reports-gulf-alaska-bering-sea-and-aleutian-islands). This link contains all Gulf of Alaska, Bering Sea, and Aleutian Islands ESRs.
+[Link to Alaska Ecosystem Status Reports (Gulf of Alaska, Bering Sea, and Aleutian Islands)](https://www.fisheries.noaa.gov/alaska/ecosystems/ecosystem-status-reports-gulf-alaska-bering-sea-and-aleutian-islands)
 
 ## California Current
 [Link to California Current Ecosystem Status reports](https://www.integratedecosystemassessment.noaa.gov/regions/california-current/california-current-reports)
