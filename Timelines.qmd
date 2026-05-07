@@ -2,12 +2,13 @@
 title: "Timelines/Calendar"
 ---
 
-## Alaska (Gulf of Alaska, Aleutian Islands, Eastern Bering Sea)
+## Alaska 
+### (Gulf of Alaska, Aleutian Islands, Eastern Bering Sea)
 
 * May - Preview of Ecosystem and Economic Conditions (PEEC) Workshop
 * July - Initial call for ESR contributions
 * August - First deadline for submissions (winter/spring data)
-* September - ESR presentation to Crab & Groundfish Plan Teams - Second deadline for submissions (summer data)
+* September - ESR presentations to Crab & Groundfish Plan Teams - Second deadline for submissions (summer data)
 * October - ESR presentations to the North Pacific Fishery Management Council - Risk table development with groundfish stock assessment authors - ESRs finalized and internal review
 * November -ESR presentations to and review by Groundfish Plan Team - Prepare ESR 'In Briefs' - Submit final ESRs and 'In Briefs' to Council
 * December - Present ESRs to North Pacific Fishery Management Council (groundfish harvest specifications) - Archive and post ESRs and In Briefs on NOAA websites
