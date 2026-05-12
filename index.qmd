@@ -1,4 +1,4 @@
-# About this document {.unnumbered}
+# About This Document {.unnumbered}
 
 **PROBLEM:**  IEA products are co-developed with end users to address regional resource management needs. This process results in a range of ecosystem tools, expertise, processes, and products available across NOAA's regions. Development of a centralized platform enables inter-regional sharing, adoption, and production of these IEA products and tools to more efficiently support ecosystem-based fisheries management (EBFM)/ ecosystem-based management (EBM). 
 
@@ -10,7 +10,8 @@ These operational reports and products provide ecosystem science to regional fis
 
 **AUDIENCE:** This platform is intended for internal NOAA use, specifically IEA/National Ecosystem Assessment Program members who contribute to data management and product development. 
 
-## IEA regions
+
+## Our Regions
 
 **ALASKA**
 The Ecosystem Status Reports provide the North Pacific Fishery Management Council, including its Scientific and Statistical Committee (SSC) and Advisory Panel (AP), with information on ecosystem status and trends in the Gulf of Alaska, Aleutian Islands, and Bering Sea. This information provides context for the SSC’s acceptable biological catch (ABC) and overfishing limit (OFL) recommendations, as well as the Council’s final total allowable catch (TAC) determination for groundfish and crab. The ecosystem information in this report is integrated into the annual harvest recommendations through inclusion in stock assessment-specific risk tables (Dorn and Zador, 2020), presentations to the Groundfish and Crab plan teams in annual September and November meetings, presentations to the Council in their annual October and December meetings, and submission of the final report to the Council in December. In addition, ‘In Brief’s are 4-page outreach reports produced to summarize the Ecosystem Status Reports for a broader audience.
@@ -25,5 +26,3 @@ The Gulf integrated ecosystem assessment team is currently developing three ecos
 **NORTHEAST**
 The [State of the Ecosystem (SOE)](https://www.fisheries.noaa.gov/new-england-mid-atlantic/ecosystems/state-ecosystem-reports-northeast-us-shelf) reports provide a synthesis of the current status of the Northeast Shelf marine ecosystems (Georges Bank, Gulf of Maine, and the Mid-Atlantic Bight). They are developed for the [New England](https://www.nefmc.org/) and the [Mid-Atlantic](https://www.mafmc.org/) Fishery Management Councils. These annual, collaboratively produced reports inform the councils about [ecological](https://www.fisheries.noaa.gov/new-england-mid-atlantic/ecosystems/northeast-ecosystem-dynamics-and-assessment-our-research), [oceanographic](https://www.fisheries.noaa.gov/new-england-mid-atlantic/ecosystems/monitoring-ecosystem-northeast), and [socioeconomic](https://www.fisheries.noaa.gov/new-england-mid-atlantic/socioeconomics/socioeconomic-cultural-and-policy-research-northeast) aspects of the ecosystem—from fishing engagement to [climate](https://www.fisheries.noaa.gov/new-england-mid-atlantic/climate/climate-change-northeast-us-shelf-ecosystem) conditions.
 
-
-![IEA Conceptual Model](images/25March2025 _ IEA Program Structure Draft _Regions.png)
