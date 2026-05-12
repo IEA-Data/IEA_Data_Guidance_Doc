@@ -1,7 +1,3 @@
----
-title: "About This Document"
-format: html
----
 # About This Document {.unnumbered}
 
 **PROBLEM:**  IEA products are co-developed with end users to address regional resource management needs. This process results in a range of ecosystem tools, expertise, processes, and products available across NOAA's regions. Development of a centralized platform enables inter-regional sharing, adoption, and production of these IEA products and tools to more efficiently support ecosystem-based fisheries management (EBFM)/ ecosystem-based management (EBM). 
