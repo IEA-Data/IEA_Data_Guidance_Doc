@@ -8,15 +8,16 @@ title: "Metadata Best Practices"
   + Properly curated, data and geospatial products can lead to large societal and economic returns. 
   + When data is used as a resource for future products it becomes an indispensable asset. 
  
-![Caption](images/DIKW+Pyramid.jpg)
+[![Data, Information, Knowledge, Wisdom Pyramid](images/DIKW+Pyramid.jpg)]
 
-[![Caption](images/lifecyle.png)](https://dataoneorg.github.io/Education/)
+[![Lifecycle of Data](images/lifecyle.png)](https://dataoneorg.github.io/Education/)
 
-Properly 
-### What is Data Management?
+## What is Data Management?
 
 ## FAIR Data Compliance
 
 ## Open Data Policies within NOAA
+For data compliance standards, please refer to the [NOAA One Stop Data and Metadata Improvement Tiers](https://www.ncei.noaa.gov/sites/default/files/2021-08/OneStop-Data-and-Metadata-Improvement-Tier%20Guidance-v2.1.pdf)
 
 ## Archiving options
+[Navigating NCEI Presentation](https://docs.google.com/presentation/d/14tG4yd7CVB0JBQ4_rGdalIQSAjPqY1YU6-nqTv9Ul2E/edit?slide=id.g3fb4569a108_1_119#slide=id.g3fb4569a108_1_119)
