@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -42,10 +45,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-359fc8f2f8014fcfc036d9a19bce6129.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3b413c87b24597467b3443e7d59c7729.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -254,9 +257,10 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#data-life-cycle" id="toc-data-life-cycle" class="nav-link active" data-scroll-target="#data-life-cycle"><span class="header-section-number">12.1</span> Data Life Cycle</a></li>
-  <li><a href="#fair-data-compliance" id="toc-fair-data-compliance" class="nav-link" data-scroll-target="#fair-data-compliance"><span class="header-section-number">12.2</span> FAIR Data Compliance</a></li>
-  <li><a href="#open-data-policies-within-noaa" id="toc-open-data-policies-within-noaa" class="nav-link" data-scroll-target="#open-data-policies-within-noaa"><span class="header-section-number">12.3</span> Open Data Policies within NOAA</a></li>
-  <li><a href="#archiving-options" id="toc-archiving-options" class="nav-link" data-scroll-target="#archiving-options"><span class="header-section-number">12.4</span> Archiving options</a></li>
+  <li><a href="#what-is-data-management" id="toc-what-is-data-management" class="nav-link" data-scroll-target="#what-is-data-management"><span class="header-section-number">12.2</span> What is Data Management?</a></li>
+  <li><a href="#fair-data-compliance" id="toc-fair-data-compliance" class="nav-link" data-scroll-target="#fair-data-compliance"><span class="header-section-number">12.3</span> FAIR Data Compliance</a></li>
+  <li><a href="#open-data-policies-within-noaa" id="toc-open-data-policies-within-noaa" class="nav-link" data-scroll-target="#open-data-policies-within-noaa"><span class="header-section-number">12.4</span> Open Data Policies within NOAA</a></li>
+  <li><a href="#archiving-options" id="toc-archiving-options" class="nav-link" data-scroll-target="#archiving-options"><span class="header-section-number">12.5</span> Archiving options</a></li>
   </ul>
 </nav>
     </div>
@@ -292,28 +296,27 @@ ul.task-list li input[type="checkbox"] {
 <li>When data is used as a resource for future products it becomes an indispensable asset.</li>
 </ul></li>
 </ul>
+<p>[<img src="images/DIKW+Pyramid.jpg" class="img-fluid" alt="Data, Information, Knowledge, Wisdom Pyramid">]</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="DIKW+Pyramid.jpg" class="img-fluid figure-img"></p>
-<figcaption>Caption</figcaption>
+<p><a href="https://dataoneorg.github.io/Education/"><img src="images/lifecyle.png" class="img-fluid figure-img"></a></p>
+<figcaption>Lifecycle of Data</figcaption>
 </figure>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://dataoneorg.github.io/Education/"><img src="lifecyle.png" class="img-fluid figure-img"></a></p>
-<figcaption>Caption</figcaption>
-</figure>
-</div>
-<p>Properly ### What is Data Management?</p>
 </section>
-<section id="fair-data-compliance" class="level2" data-number="12.2">
-<h2 data-number="12.2" class="anchored" data-anchor-id="fair-data-compliance"><span class="header-section-number">12.2</span> FAIR Data Compliance</h2>
+<section id="what-is-data-management" class="level2" data-number="12.2">
+<h2 data-number="12.2" class="anchored" data-anchor-id="what-is-data-management"><span class="header-section-number">12.2</span> What is Data Management?</h2>
 </section>
-<section id="open-data-policies-within-noaa" class="level2" data-number="12.3">
-<h2 data-number="12.3" class="anchored" data-anchor-id="open-data-policies-within-noaa"><span class="header-section-number">12.3</span> Open Data Policies within NOAA</h2>
+<section id="fair-data-compliance" class="level2" data-number="12.3">
+<h2 data-number="12.3" class="anchored" data-anchor-id="fair-data-compliance"><span class="header-section-number">12.3</span> FAIR Data Compliance</h2>
 </section>
-<section id="archiving-options" class="level2" data-number="12.4">
-<h2 data-number="12.4" class="anchored" data-anchor-id="archiving-options"><span class="header-section-number">12.4</span> Archiving options</h2>
+<section id="open-data-policies-within-noaa" class="level2" data-number="12.4">
+<h2 data-number="12.4" class="anchored" data-anchor-id="open-data-policies-within-noaa"><span class="header-section-number">12.4</span> Open Data Policies within NOAA</h2>
+<p>For data compliance standards, please refer to the <a href="https://www.ncei.noaa.gov/sites/default/files/2021-08/OneStop-Data-and-Metadata-Improvement-Tier%20Guidance-v2.1.pdf">NOAA One Stop Data and Metadata Improvement Tiers</a></p>
+</section>
+<section id="archiving-options" class="level2" data-number="12.5">
+<h2 data-number="12.5" class="anchored" data-anchor-id="archiving-options"><span class="header-section-number">12.5</span> Archiving options</h2>
+<p><a href="https://docs.google.com/presentation/d/14tG4yd7CVB0JBQ4_rGdalIQSAjPqY1YU6-nqTv9Ul2E/edit?slide=id.g3fb4569a108_1_119#slide=id.g3fb4569a108_1_119">Navigating NCEI Presentation</a></p>
 
 
 </section>

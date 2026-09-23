@@ -464,7 +464,7 @@
     "href": "metadata_bestpractices.html",
     "title": "12  Metadata Best Practices",
     "section": "",
-    "text": "12.1 Data Life Cycle\nProperly ### What is Data Management?",
+    "text": "12.1 Data Life Cycle\n[]",
     "crumbs": [
       "Data Management & Best Practices",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
@@ -475,7 +475,18 @@
     "href": "metadata_bestpractices.html#data-life-cycle",
     "title": "12  Metadata Best Practices",
     "section": "",
-    "text": "Why is data important?\n\nIn a knowledge based society, data is what leads to success. Data and reproducibility create trust and decision making.\nProperly curated, data and geospatial products can lead to large societal and economic returns.\nWhen data is used as a resource for future products it becomes an indispensable asset.\n\n\n\n\n\nCaption\n\n\n\n\n\nCaption",
+    "text": "Why is data important?\n\nIn a knowledge based society, data is what leads to success. Data and reproducibility create trust and decision making.\nProperly curated, data and geospatial products can lead to large societal and economic returns.\nWhen data is used as a resource for future products it becomes an indispensable asset.\n\n\n\n\n\n\nLifecycle of Data",
+    "crumbs": [
+      "Data Management & Best Practices",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
+    ]
+  },
+  {
+    "objectID": "metadata_bestpractices.html#what-is-data-management",
+    "href": "metadata_bestpractices.html#what-is-data-management",
+    "title": "12  Metadata Best Practices",
+    "section": "12.2 What is Data Management?",
+    "text": "12.2 What is Data Management?",
     "crumbs": [
       "Data Management & Best Practices",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
@@ -485,8 +496,8 @@
     "objectID": "metadata_bestpractices.html#fair-data-compliance",
     "href": "metadata_bestpractices.html#fair-data-compliance",
     "title": "12  Metadata Best Practices",
-    "section": "12.2 FAIR Data Compliance",
-    "text": "12.2 FAIR Data Compliance",
+    "section": "12.3 FAIR Data Compliance",
+    "text": "12.3 FAIR Data Compliance",
     "crumbs": [
       "Data Management & Best Practices",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
@@ -496,8 +507,8 @@
     "objectID": "metadata_bestpractices.html#open-data-policies-within-noaa",
     "href": "metadata_bestpractices.html#open-data-policies-within-noaa",
     "title": "12  Metadata Best Practices",
-    "section": "12.3 Open Data Policies within NOAA",
-    "text": "12.3 Open Data Policies within NOAA",
+    "section": "12.4 Open Data Policies within NOAA",
+    "text": "12.4 Open Data Policies within NOAA\nFor data compliance standards, please refer to the NOAA One Stop Data and Metadata Improvement Tiers",
     "crumbs": [
       "Data Management & Best Practices",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
@@ -507,8 +518,8 @@
     "objectID": "metadata_bestpractices.html#archiving-options",
     "href": "metadata_bestpractices.html#archiving-options",
     "title": "12  Metadata Best Practices",
-    "section": "12.4 Archiving options",
-    "text": "12.4 Archiving options",
+    "section": "12.5 Archiving options",
+    "text": "12.5 Archiving options\nNavigating NCEI Presentation",
     "crumbs": [
       "Data Management & Best Practices",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Metadata Best Practices</span>"
