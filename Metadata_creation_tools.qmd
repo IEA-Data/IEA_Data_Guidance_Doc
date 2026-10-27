@@ -16,8 +16,13 @@ This is achieved by the National Environmental Archive by
 * NetCDF templates
 * Creating Data Management Plans
 
-# Template Starter Packs
-* 
+:::{.callout-note collapse="true"}
+## Useful Templates to follow
+
+[ISO 19115-2 Gridded data and Imagery Workbook](https://www.ncei.noaa.gov/sites/default/files/2024-07/ISO%2019115-2%20Workbook.pdf)
+[NCEI's NetCDF Templates](https://www.ncei.noaa.gov/netcdf-templates)
+[Federal Geographic Data Committee's Standards and Guidelines](https://www.fgdc.gov/metadata/geospatial-metadata-standards#fgdcendorsedisostandards0
+:::
 
 # R Packages
 
