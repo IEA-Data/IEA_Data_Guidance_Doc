@@ -20,4 +20,4 @@ title: "Metadata Best Practices"
 For data compliance standards, please refer to the [NOAA One Stop Data and Metadata Improvement Tiers](https://www.ncei.noaa.gov/sites/default/files/2021-08/OneStop-Data-and-Metadata-Improvement-Tier%20Guidance-v2.1.pdf)
 
 ## Archiving options
-[Navigating NCEI Presentation](https://docs.google.com/presentation/d/14tG4yd7CVB0JBQ4_rGdalIQSAjPqY1YU6-nqTv9Ul2E/edit?slide=id.g3fb4569a108_1_119#slide=id.g3fb4569a108_1_119)
+[Navigating NCEI Presentation - Data Archival Methods to Data Access and more](https://docs.google.com/presentation/d/14tG4yd7CVB0JBQ4_rGdalIQSAjPqY1YU6-nqTv9Ul2E/edit?slide=id.g3fb4569a108_1_119#slide=id.g3fb4569a108_1_119)
