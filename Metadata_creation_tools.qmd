@@ -2,6 +2,22 @@
 title: "Metadata Creation Tools"
 format: html
 ---
+Federally funded data are required to include standardized metadata with common attributes in a consistent format to support documentation. 
+All NOAA environmental data must have:
+- Title
+- Geographic and Temporal Extents
+- Citation Information
+- Abstract about the dataset
+- Keywords
+- Data License Information
+
+This is achieved by the National Environmental Archive by 
+* following the International Organization for Standardization (ISO). 
+* NetCDF templates
+* Creating Data Management Plans
+
+# Template Starter Packs
+* 
 
 # R Packages
 
